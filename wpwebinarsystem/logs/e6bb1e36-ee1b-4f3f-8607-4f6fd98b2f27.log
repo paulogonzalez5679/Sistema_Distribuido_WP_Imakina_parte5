@@ -1,0 +1,2788 @@
+[2020-07-27 16:41:28] Flushing rewrite rules
+[2020-07-27 16:41:59] Sending queued emails
+[2020-07-27 16:41:59] No more queued emails, exiting
+[2020-07-27 16:43:10] Sending queued emails
+[2020-07-27 16:43:10] No more queued emails, exiting
+[2020-07-27 16:44:02] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 16:44:02] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 16:44:02] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 16:44:02] Sending queued emails
+[2020-07-27 16:44:02] No more queued emails, exiting
+[2020-07-27 16:44:56] Sending queued emails
+[2020-07-27 16:44:56] No more queued emails, exiting
+[2020-07-27 16:45:57] Sending queued emails
+[2020-07-27 16:45:57] No more queued emails, exiting
+[2020-07-27 16:46:57] Sending queued emails
+[2020-07-27 16:46:57] No more queued emails, exiting
+[2020-07-27 16:47:57] Sending queued emails
+[2020-07-27 16:47:57] No more queued emails, exiting
+[2020-07-27 16:48:56] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 16:48:56] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 16:48:56] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 16:48:56] Sending queued emails
+[2020-07-27 16:48:56] No more queued emails, exiting
+[2020-07-27 16:50:02] Sending queued emails
+[2020-07-27 16:50:02] No more queued emails, exiting
+[2020-07-27 16:50:56] Sending queued emails
+[2020-07-27 16:50:56] No more queued emails, exiting
+[2020-07-27 16:52:04] Sending queued emails
+[2020-07-27 16:52:04] No more queued emails, exiting
+[2020-07-27 16:53:06] Sending queued emails
+[2020-07-27 16:53:06] No more queued emails, exiting
+[2020-07-27 16:53:57] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 16:53:57] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 16:53:57] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 16:53:57] Sending queued emails
+[2020-07-27 16:53:57] No more queued emails, exiting
+[2020-07-27 16:54:39] wp_mail failure detected: Could not instantiate mail function. (this might not be from WebinarPress!)
+[2020-07-27 16:54:41] wp_mail failure detected: Could not instantiate mail function. (this might not be from WebinarPress!)
+[2020-07-27 16:54:57] Sending queued emails
+[2020-07-27 16:54:57] No more queued emails, exiting
+[2020-07-27 16:55:11] wp_mail failure detected: Could not instantiate mail function. (this might not be from WebinarPress!)
+[2020-07-27 16:55:11] Registering 'Roberth' (livewar.minionpk@gmail.com) for in webinar 1361 (day: , time: , date/time: )
+[2020-07-27 16:55:11] Sending email to r.lopez@mycodedmind.com
+[2020-07-27 16:55:11] Queuing mail to send later (r.lopez@mycodedmind.com, New Registration)
+[2020-07-27 16:55:11] Mail queue result: 1
+[2020-07-27 16:55:11] Re-subscribing livewar.minionpk@gmail.com
+[2020-07-27 16:55:11] Sending email to livewar.minionpk@gmail.com
+[2020-07-27 16:55:11] Queuing mail to send later (livewar.minionpk@gmail.com, Your webinar link)
+[2020-07-27 16:55:11] Mail queue result: 1
+[2020-07-27 16:55:53] Firing attended flags for 2
+[2020-07-27 16:56:06] Sending queued emails
+[2020-07-27 16:56:06] Sending webinar email from queue (r.lopez@mycodedmind.com, New Registration)
+[2020-07-27 16:56:08] wp_mail failure detected: Could not instantiate mail function. (this might not be from WebinarPress!)
+[2020-07-27 16:56:08] Failed to send (according to wp_mail)
+[2020-07-27 16:56:08] Sending webinar email from queue (livewar.minionpk@gmail.com, Your webinar link)
+[2020-07-27 16:56:10] wp_mail failure detected: Could not instantiate mail function. (this might not be from WebinarPress!)
+[2020-07-27 16:56:10] Failed to send (according to wp_mail)
+[2020-07-27 16:56:10] No more queued emails, exiting
+[2020-07-27 16:56:56] Registering 'rober' (r.lopez@mycodedmind.com) for in webinar 1361 (day: , time: , date/time: )
+[2020-07-27 16:56:56] Re-subscribing r.lopez@mycodedmind.com
+[2020-07-27 16:56:56] Sending queued emails
+[2020-07-27 16:56:56] No more queued emails, exiting
+[2020-07-27 16:57:00] Firing attended flags for 1
+[2020-07-27 16:57:56] Sending queued emails
+[2020-07-27 16:57:56] No more queued emails, exiting
+[2020-07-27 16:58:56] Sending queued emails
+[2020-07-27 16:58:56] No more queued emails, exiting
+[2020-07-27 16:59:24] Flushing rewrite rules
+[2020-07-27 17:00:08] Sending queued emails
+[2020-07-27 17:00:08] No more queued emails, exiting
+[2020-07-27 17:00:56] Sending queued emails
+[2020-07-27 17:00:56] No more queued emails, exiting
+[2020-07-27 17:02:42] Sending queued emails
+[2020-07-27 17:02:42] No more queued emails, exiting
+[2020-07-27 17:03:17] Sending queued emails
+[2020-07-27 17:03:17] No more queued emails, exiting
+[2020-07-27 17:04:14] Sending queued emails
+[2020-07-27 17:04:14] No more queued emails, exiting
+[2020-07-27 17:05:19] Sending queued emails
+[2020-07-27 17:05:19] No more queued emails, exiting
+[2020-07-27 17:06:07] Sending queued emails
+[2020-07-27 17:06:07] No more queued emails, exiting
+[2020-07-27 17:07:16] Sending queued emails
+[2020-07-27 17:07:16] No more queued emails, exiting
+[2020-07-27 17:07:34] Registering 'Roberth López' (rober-lopez@hotmail.com) for in webinar 1361 (day: , time: , date/time: )
+[2020-07-27 17:07:34] Re-subscribing rober-lopez@hotmail.com
+[2020-07-27 17:08:11] Sending queued emails
+[2020-07-27 17:08:11] No more queued emails, exiting
+[2020-07-27 17:08:16] Firing attended flags for 3
+[2020-07-27 17:09:00] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 17:09:00] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 17:09:00] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 17:09:00] Sending queued emails
+[2020-07-27 17:09:00] No more queued emails, exiting
+[2020-07-27 17:10:08] Sending queued emails
+[2020-07-27 17:10:08] No more queued emails, exiting
+[2020-07-27 17:11:08] Sending queued emails
+[2020-07-27 17:11:08] No more queued emails, exiting
+[2020-07-27 17:11:56] Sending queued emails
+[2020-07-27 17:11:56] No more queued emails, exiting
+[2020-07-27 17:12:56] Sending queued emails
+[2020-07-27 17:12:56] No more queued emails, exiting
+[2020-07-27 17:13:57] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 17:13:57] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 17:13:57] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 17:13:57] Sending queued emails
+[2020-07-27 17:13:57] No more queued emails, exiting
+[2020-07-27 17:14:57] Sending queued emails
+[2020-07-27 17:14:57] No more queued emails, exiting
+[2020-07-27 17:15:55] Flushing rewrite rules
+[2020-07-27 17:15:56] Flushing rewrite rules
+[2020-07-27 17:15:56] Sending queued emails
+[2020-07-27 17:15:56] No more queued emails, exiting
+[2020-07-27 17:17:01] Sending queued emails
+[2020-07-27 17:17:01] No more queued emails, exiting
+[2020-07-27 17:17:57] Sending queued emails
+[2020-07-27 17:17:57] No more queued emails, exiting
+[2020-07-27 17:19:15] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 17:19:15] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 17:19:15] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 17:19:15] Sending queued emails
+[2020-07-27 17:19:15] No more queued emails, exiting
+[2020-07-27 17:20:16] Sending queued emails
+[2020-07-27 17:20:16] No more queued emails, exiting
+[2020-07-27 17:20:56] Sending queued emails
+[2020-07-27 17:20:56] No more queued emails, exiting
+[2020-07-27 17:22:06] Sending queued emails
+[2020-07-27 17:22:06] No more queued emails, exiting
+[2020-07-27 17:23:15] Sending queued emails
+[2020-07-27 17:23:15] No more queued emails, exiting
+[2020-07-27 17:24:00] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 17:24:00] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 17:24:00] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 17:24:00] Sending queued emails
+[2020-07-27 17:24:00] No more queued emails, exiting
+[2020-07-27 17:24:58] Sending queued emails
+[2020-07-27 17:24:58] No more queued emails, exiting
+[2020-07-27 17:26:03] Sending queued emails
+[2020-07-27 17:26:03] No more queued emails, exiting
+[2020-07-27 17:27:15] Sending queued emails
+[2020-07-27 17:27:15] No more queued emails, exiting
+[2020-07-27 17:28:16] Sending queued emails
+[2020-07-27 17:28:16] No more queued emails, exiting
+[2020-07-27 17:29:16] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 17:29:16] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 17:29:16] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 17:29:16] Sending queued emails
+[2020-07-27 17:29:16] No more queued emails, exiting
+[2020-07-27 17:30:15] Sending queued emails
+[2020-07-27 17:30:15] No more queued emails, exiting
+[2020-07-27 17:31:09] Sending queued emails
+[2020-07-27 17:31:09] No more queued emails, exiting
+[2020-07-27 17:32:09] Sending queued emails
+[2020-07-27 17:32:09] No more queued emails, exiting
+[2020-07-27 17:33:15] Sending queued emails
+[2020-07-27 17:33:15] No more queued emails, exiting
+[2020-07-27 17:34:14] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 17:34:14] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 17:34:14] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 17:34:14] Sending queued emails
+[2020-07-27 17:34:14] No more queued emails, exiting
+[2020-07-27 17:35:14] Sending queued emails
+[2020-07-27 17:35:14] No more queued emails, exiting
+[2020-07-27 17:36:16] Sending queued emails
+[2020-07-27 17:36:16] No more queued emails, exiting
+[2020-07-27 17:37:15] Sending queued emails
+[2020-07-27 17:37:15] No more queued emails, exiting
+[2020-07-27 17:38:16] Sending queued emails
+[2020-07-27 17:38:16] No more queued emails, exiting
+[2020-07-27 17:39:14] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 17:39:14] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 17:39:14] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 17:39:14] Sending queued emails
+[2020-07-27 17:39:14] No more queued emails, exiting
+[2020-07-27 17:40:13] Sending queued emails
+[2020-07-27 17:40:13] No more queued emails, exiting
+[2020-07-27 17:41:15] Sending queued emails
+[2020-07-27 17:41:15] No more queued emails, exiting
+[2020-07-27 17:41:59] Sending queued emails
+[2020-07-27 17:41:59] No more queued emails, exiting
+[2020-07-27 17:43:15] Sending queued emails
+[2020-07-27 17:43:15] No more queued emails, exiting
+[2020-07-27 17:44:15] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 17:44:15] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 17:44:15] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 17:44:15] Sending queued emails
+[2020-07-27 17:44:15] No more queued emails, exiting
+[2020-07-27 17:45:14] Sending queued emails
+[2020-07-27 17:45:14] No more queued emails, exiting
+[2020-07-27 17:46:15] Sending queued emails
+[2020-07-27 17:46:15] No more queued emails, exiting
+[2020-07-27 17:47:15] Sending queued emails
+[2020-07-27 17:47:15] No more queued emails, exiting
+[2020-07-27 17:48:15] Sending queued emails
+[2020-07-27 17:48:15] No more queued emails, exiting
+[2020-07-27 17:49:15] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 17:49:15] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 17:49:15] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 17:49:15] Sending queued emails
+[2020-07-27 17:49:15] No more queued emails, exiting
+[2020-07-27 17:50:25] Sending queued emails
+[2020-07-27 17:50:25] No more queued emails, exiting
+[2020-07-27 17:51:01] Sending queued emails
+[2020-07-27 17:51:01] No more queued emails, exiting
+[2020-07-27 17:53:42] Sending queued emails
+[2020-07-27 17:53:42] No more queued emails, exiting
+[2020-07-27 17:53:59] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 17:53:59] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 17:53:59] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 17:53:59] Sending queued emails
+[2020-07-27 17:53:59] No more queued emails, exiting
+[2020-07-27 17:55:26] Sending queued emails
+[2020-07-27 17:55:26] No more queued emails, exiting
+[2020-07-27 17:56:00] Sending queued emails
+[2020-07-27 17:56:00] No more queued emails, exiting
+[2020-07-27 17:57:02] Sending queued emails
+[2020-07-27 17:57:02] No more queued emails, exiting
+[2020-07-27 17:58:06] Sending queued emails
+[2020-07-27 17:58:06] No more queued emails, exiting
+[2020-07-27 17:59:00] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 17:59:00] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 17:59:00] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 17:59:00] Sending queued emails
+[2020-07-27 17:59:00] No more queued emails, exiting
+[2020-07-27 18:01:34] Sending queued emails
+[2020-07-27 18:01:34] No more queued emails, exiting
+[2020-07-27 18:03:36] Sending queued emails
+[2020-07-27 18:03:36] No more queued emails, exiting
+[2020-07-27 18:05:04] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 18:05:04] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 18:05:04] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 18:05:04] Sending queued emails
+[2020-07-27 18:05:04] No more queued emails, exiting
+[2020-07-27 18:06:04] Sending queued emails
+[2020-07-27 18:06:04] No more queued emails, exiting
+[2020-07-27 18:07:06] Sending queued emails
+[2020-07-27 18:07:06] No more queued emails, exiting
+[2020-07-27 18:08:10] Sending queued emails
+[2020-07-27 18:08:10] No more queued emails, exiting
+[2020-07-27 18:09:05] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 18:09:05] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 18:09:05] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 18:09:05] Sending queued emails
+[2020-07-27 18:09:05] No more queued emails, exiting
+[2020-07-27 18:10:09] Sending queued emails
+[2020-07-27 18:10:09] No more queued emails, exiting
+[2020-07-27 18:10:15] wp_mail failure detected: Could not instantiate mail function. (this might not be from WebinarPress!)
+[2020-07-27 18:10:58] Sending queued emails
+[2020-07-27 18:10:58] No more queued emails, exiting
+[2020-07-27 18:11:59] Sending queued emails
+[2020-07-27 18:11:59] No more queued emails, exiting
+[2020-07-27 18:12:59] Sending queued emails
+[2020-07-27 18:12:59] No more queued emails, exiting
+[2020-07-27 18:14:00] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 18:14:00] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 18:14:00] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 18:14:00] Sending queued emails
+[2020-07-27 18:14:00] No more queued emails, exiting
+[2020-07-27 18:15:14] Sending queued emails
+[2020-07-27 18:15:14] No more queued emails, exiting
+[2020-07-27 18:16:15] Sending queued emails
+[2020-07-27 18:16:15] No more queued emails, exiting
+[2020-07-27 20:45:32] Sending queued emails
+[2020-07-27 20:45:32] No more queued emails, exiting
+[2020-07-27 20:45:32] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 20:45:32] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 20:45:32] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 21:36:18] Sending queued emails
+[2020-07-27 21:36:18] No more queued emails, exiting
+[2020-07-27 21:36:18] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-27 21:36:18] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-27 21:36:18] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-27 21:37:29] Sending queued emails
+[2020-07-27 21:37:29] No more queued emails, exiting
+[2020-07-28 20:25:55] Sending queued emails
+[2020-07-28 20:25:55] No more queued emails, exiting
+[2020-07-28 20:25:55] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-28 20:25:55] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-28 20:25:55] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-29 17:06:09] Sending queued emails
+[2020-07-29 17:06:09] No more queued emails, exiting
+[2020-07-29 17:06:10] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-29 17:06:10] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-29 17:06:10] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-31 14:57:47] Sending queued emails
+[2020-07-31 14:57:47] No more queued emails, exiting
+[2020-07-31 14:57:48] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-31 14:57:48] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-31 14:57:48] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-31 14:58:26] Sending queued emails
+[2020-07-31 14:58:27] No more queued emails, exiting
+[2020-07-31 14:59:06] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-31 14:59:06] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-31 14:59:06] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-31 14:59:06] Sending queued emails
+[2020-07-31 14:59:06] No more queued emails, exiting
+[2020-07-31 15:00:09] Sending queued emails
+[2020-07-31 15:00:09] No more queued emails, exiting
+[2020-07-31 15:01:36] Sending queued emails
+[2020-07-31 15:01:36] No more queued emails, exiting
+[2020-07-31 15:03:37] Sending queued emails
+[2020-07-31 15:03:37] No more queued emails, exiting
+[2020-07-31 15:05:19] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-31 15:05:19] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-31 15:05:19] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-31 15:05:19] Sending queued emails
+[2020-07-31 15:05:19] No more queued emails, exiting
+[2020-07-31 15:06:04] Sending queued emails
+[2020-07-31 15:06:04] No more queued emails, exiting
+[2020-07-31 15:08:25] Sending queued emails
+[2020-07-31 15:08:25] No more queued emails, exiting
+[2020-07-31 15:09:01] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-07-31 15:09:01] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-07-31 15:09:01] Checking emails for Webinar de Prueba (1361) one day before
+[2020-07-31 15:09:01] Sending queued emails
+[2020-07-31 15:09:01] No more queued emails, exiting
+[2020-07-31 15:10:03] Sending queued emails
+[2020-07-31 15:10:03] No more queued emails, exiting
+[2020-07-31 15:10:59] Sending queued emails
+[2020-07-31 15:10:59] No more queued emails, exiting
+[2020-07-31 15:12:04] Sending queued emails
+[2020-07-31 15:12:04] No more queued emails, exiting
+[2020-07-31 15:13:00] Sending queued emails
+[2020-07-31 15:13:00] No more queued emails, exiting
+[2020-08-03 14:55:49] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 14:55:49] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 14:55:49] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 14:55:49] Sending queued emails
+[2020-08-03 14:55:49] No more queued emails, exiting
+[2020-08-03 14:56:00] Sending queued emails
+[2020-08-03 14:56:00] No more queued emails, exiting
+[2020-08-03 14:56:02] Sending queued emails
+[2020-08-03 14:56:02] No more queued emails, exiting
+[2020-08-03 14:56:12] Sending queued emails
+[2020-08-03 14:56:12] No more queued emails, exiting
+[2020-08-03 14:57:30] Sending queued emails
+[2020-08-03 14:57:30] No more queued emails, exiting
+[2020-08-03 14:58:03] Sending queued emails
+[2020-08-03 14:58:03] No more queued emails, exiting
+[2020-08-03 14:59:05] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 14:59:05] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 14:59:05] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 14:59:05] Sending queued emails
+[2020-08-03 14:59:05] No more queued emails, exiting
+[2020-08-03 15:00:10] Sending queued emails
+[2020-08-03 15:00:10] No more queued emails, exiting
+[2020-08-03 15:01:10] Sending queued emails
+[2020-08-03 15:01:10] No more queued emails, exiting
+[2020-08-03 15:02:10] Sending queued emails
+[2020-08-03 15:02:10] No more queued emails, exiting
+[2020-08-03 15:03:11] Sending queued emails
+[2020-08-03 15:03:11] No more queued emails, exiting
+[2020-08-03 15:04:10] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 15:04:10] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 15:04:10] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 15:04:10] Sending queued emails
+[2020-08-03 15:04:10] No more queued emails, exiting
+[2020-08-03 15:05:10] Sending queued emails
+[2020-08-03 15:05:10] No more queued emails, exiting
+[2020-08-03 17:07:39] Sending queued emails
+[2020-08-03 17:07:39] No more queued emails, exiting
+[2020-08-03 17:07:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 17:07:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 17:07:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 17:07:59] Sending queued emails
+[2020-08-03 17:07:59] No more queued emails, exiting
+[2020-08-03 17:09:04] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 17:09:04] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 17:09:04] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 17:09:04] Sending queued emails
+[2020-08-03 17:09:04] No more queued emails, exiting
+[2020-08-03 17:10:13] Sending queued emails
+[2020-08-03 17:10:13] No more queued emails, exiting
+[2020-08-03 17:12:44] Sending queued emails
+[2020-08-03 17:12:44] No more queued emails, exiting
+[2020-08-03 17:14:45] Sending queued emails
+[2020-08-03 17:14:45] No more queued emails, exiting
+[2020-08-03 17:14:45] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 17:14:45] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 17:14:45] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 17:16:03] Sending queued emails
+[2020-08-03 17:16:03] No more queued emails, exiting
+[2020-08-03 17:17:14] Sending queued emails
+[2020-08-03 17:17:14] No more queued emails, exiting
+[2020-08-03 17:19:25] Sending queued emails
+[2020-08-03 17:19:25] No more queued emails, exiting
+[2020-08-03 17:19:25] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 17:19:25] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 17:19:25] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 17:21:25] Sending queued emails
+[2020-08-03 17:21:25] No more queued emails, exiting
+[2020-08-03 17:23:28] Sending queued emails
+[2020-08-03 17:23:28] No more queued emails, exiting
+[2020-08-03 17:25:29] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 17:25:29] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 17:25:29] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 17:25:29] Sending queued emails
+[2020-08-03 17:25:29] No more queued emails, exiting
+[2020-08-03 17:39:42] Sending queued emails
+[2020-08-03 17:39:42] No more queued emails, exiting
+[2020-08-03 17:39:42] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 17:39:42] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 17:39:42] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 17:40:19] Sending queued emails
+[2020-08-03 17:40:19] No more queued emails, exiting
+[2020-08-03 17:40:58] Sending queued emails
+[2020-08-03 17:40:58] No more queued emails, exiting
+[2020-08-03 17:41:58] Sending queued emails
+[2020-08-03 17:41:58] No more queued emails, exiting
+[2020-08-03 17:43:01] Sending queued emails
+[2020-08-03 17:43:01] No more queued emails, exiting
+[2020-08-03 17:45:01] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 17:45:01] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 17:45:01] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 17:45:01] Sending queued emails
+[2020-08-03 17:45:01] No more queued emails, exiting
+[2020-08-03 17:47:01] Sending queued emails
+[2020-08-03 17:47:01] No more queued emails, exiting
+[2020-08-03 17:49:01] Sending queued emails
+[2020-08-03 17:49:01] No more queued emails, exiting
+[2020-08-03 17:49:01] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 17:49:01] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 17:49:01] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 17:50:42] Sending queued emails
+[2020-08-03 17:50:42] No more queued emails, exiting
+[2020-08-03 17:51:01] Sending queued emails
+[2020-08-03 17:51:01] No more queued emails, exiting
+[2020-08-03 17:53:10] Sending queued emails
+[2020-08-03 17:53:10] No more queued emails, exiting
+[2020-08-03 17:53:56] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 17:53:56] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 17:53:56] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 17:53:56] Sending queued emails
+[2020-08-03 17:53:56] No more queued emails, exiting
+[2020-08-03 17:55:33] Sending queued emails
+[2020-08-03 17:55:33] No more queued emails, exiting
+[2020-08-03 17:56:07] Sending queued emails
+[2020-08-03 17:56:07] No more queued emails, exiting
+[2020-08-03 17:56:58] Sending queued emails
+[2020-08-03 17:56:58] No more queued emails, exiting
+[2020-08-03 17:57:58] Sending queued emails
+[2020-08-03 17:57:58] No more queued emails, exiting
+[2020-08-03 17:58:58] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 17:58:58] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 17:58:58] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 17:58:58] Sending queued emails
+[2020-08-03 17:58:58] No more queued emails, exiting
+[2020-08-03 17:59:58] Sending queued emails
+[2020-08-03 17:59:58] No more queued emails, exiting
+[2020-08-03 18:01:27] Sending queued emails
+[2020-08-03 18:01:27] No more queued emails, exiting
+[2020-08-03 18:02:27] Sending queued emails
+[2020-08-03 18:02:27] No more queued emails, exiting
+[2020-08-03 18:03:27] Sending queued emails
+[2020-08-03 18:03:27] No more queued emails, exiting
+[2020-08-03 18:03:57] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 18:03:57] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 18:03:57] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 18:03:57] Sending queued emails
+[2020-08-03 18:03:57] No more queued emails, exiting
+[2020-08-03 18:05:03] Sending queued emails
+[2020-08-03 18:05:03] No more queued emails, exiting
+[2020-08-03 18:05:59] Sending queued emails
+[2020-08-03 18:05:59] No more queued emails, exiting
+[2020-08-03 18:07:06] Sending queued emails
+[2020-08-03 18:07:06] No more queued emails, exiting
+[2020-08-03 18:08:06] Sending queued emails
+[2020-08-03 18:08:06] No more queued emails, exiting
+[2020-08-03 18:08:57] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 18:08:57] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 18:08:57] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 18:08:57] Sending queued emails
+[2020-08-03 18:08:57] No more queued emails, exiting
+[2020-08-03 18:10:07] Sending queued emails
+[2020-08-03 18:10:07] No more queued emails, exiting
+[2020-08-03 18:11:07] Sending queued emails
+[2020-08-03 18:11:07] No more queued emails, exiting
+[2020-08-03 18:12:07] Sending queued emails
+[2020-08-03 18:12:07] No more queued emails, exiting
+[2020-08-03 18:13:07] Sending queued emails
+[2020-08-03 18:13:07] No more queued emails, exiting
+[2020-08-03 18:14:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 18:14:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 18:14:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 18:14:39] Sending queued emails
+[2020-08-03 18:14:39] No more queued emails, exiting
+[2020-08-03 18:15:26] Sending queued emails
+[2020-08-03 18:15:26] No more queued emails, exiting
+[2020-08-03 18:16:39] Sending queued emails
+[2020-08-03 18:16:39] No more queued emails, exiting
+[2020-08-03 18:17:36] Sending queued emails
+[2020-08-03 18:17:36] No more queued emails, exiting
+[2020-08-03 18:18:39] Sending queued emails
+[2020-08-03 18:18:39] No more queued emails, exiting
+[2020-08-03 18:19:46] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 18:19:46] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 18:19:46] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 18:19:46] Sending queued emails
+[2020-08-03 18:19:46] No more queued emails, exiting
+[2020-08-03 18:20:39] Sending queued emails
+[2020-08-03 18:20:39] No more queued emails, exiting
+[2020-08-03 18:21:40] Sending queued emails
+[2020-08-03 18:21:40] No more queued emails, exiting
+[2020-08-03 18:22:40] Sending queued emails
+[2020-08-03 18:22:40] No more queued emails, exiting
+[2020-08-03 18:23:40] Sending queued emails
+[2020-08-03 18:23:40] No more queued emails, exiting
+[2020-08-03 18:24:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 18:24:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 18:24:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 18:24:39] Sending queued emails
+[2020-08-03 18:24:39] No more queued emails, exiting
+[2020-08-03 18:25:46] Sending queued emails
+[2020-08-03 18:25:46] No more queued emails, exiting
+[2020-08-03 18:26:38] Sending queued emails
+[2020-08-03 18:26:38] No more queued emails, exiting
+[2020-08-03 18:27:45] Sending queued emails
+[2020-08-03 18:27:45] No more queued emails, exiting
+[2020-08-03 18:28:39] Sending queued emails
+[2020-08-03 18:28:39] No more queued emails, exiting
+[2020-08-03 18:29:46] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 18:29:46] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 18:29:46] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 18:29:46] Sending queued emails
+[2020-08-03 18:29:46] No more queued emails, exiting
+[2020-08-03 18:30:37] Sending queued emails
+[2020-08-03 18:30:37] No more queued emails, exiting
+[2020-08-03 18:31:49] Sending queued emails
+[2020-08-03 18:31:49] No more queued emails, exiting
+[2020-08-03 18:32:40] Sending queued emails
+[2020-08-03 18:32:40] No more queued emails, exiting
+[2020-08-03 18:33:41] Sending queued emails
+[2020-08-03 18:33:41] No more queued emails, exiting
+[2020-08-03 18:34:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 18:34:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 18:34:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 18:34:39] Sending queued emails
+[2020-08-03 18:34:39] No more queued emails, exiting
+[2020-08-03 18:35:40] Sending queued emails
+[2020-08-03 18:35:40] No more queued emails, exiting
+[2020-08-03 18:36:39] Sending queued emails
+[2020-08-03 18:36:39] No more queued emails, exiting
+[2020-08-03 18:37:46] Sending queued emails
+[2020-08-03 18:37:46] No more queued emails, exiting
+[2020-08-03 18:38:40] Sending queued emails
+[2020-08-03 18:38:40] No more queued emails, exiting
+[2020-08-03 18:39:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 18:39:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 18:39:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 18:39:40] Sending queued emails
+[2020-08-03 18:39:40] No more queued emails, exiting
+[2020-08-03 18:40:39] Sending queued emails
+[2020-08-03 18:40:39] No more queued emails, exiting
+[2020-08-03 18:41:46] Sending queued emails
+[2020-08-03 18:41:46] No more queued emails, exiting
+[2020-08-03 18:42:39] Sending queued emails
+[2020-08-03 18:42:39] No more queued emails, exiting
+[2020-08-03 18:43:41] Sending queued emails
+[2020-08-03 18:43:41] No more queued emails, exiting
+[2020-08-03 18:44:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 18:44:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 18:44:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 18:44:39] Sending queued emails
+[2020-08-03 18:44:39] No more queued emails, exiting
+[2020-08-03 18:45:46] Sending queued emails
+[2020-08-03 18:45:46] No more queued emails, exiting
+[2020-08-03 18:46:39] Sending queued emails
+[2020-08-03 18:46:39] No more queued emails, exiting
+[2020-08-03 18:47:46] Sending queued emails
+[2020-08-03 18:47:46] No more queued emails, exiting
+[2020-08-03 18:48:39] Sending queued emails
+[2020-08-03 18:48:39] No more queued emails, exiting
+[2020-08-03 18:49:45] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 18:49:45] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 18:49:45] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 18:49:46] Sending queued emails
+[2020-08-03 18:49:46] No more queued emails, exiting
+[2020-08-03 18:50:39] Sending queued emails
+[2020-08-03 18:50:39] No more queued emails, exiting
+[2020-08-03 18:51:46] Sending queued emails
+[2020-08-03 18:51:46] No more queued emails, exiting
+[2020-08-03 18:52:39] Sending queued emails
+[2020-08-03 18:52:39] No more queued emails, exiting
+[2020-08-03 18:53:46] Sending queued emails
+[2020-08-03 18:53:46] No more queued emails, exiting
+[2020-08-03 18:54:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 18:54:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 18:54:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 18:54:40] Sending queued emails
+[2020-08-03 18:54:40] No more queued emails, exiting
+[2020-08-03 18:55:46] Sending queued emails
+[2020-08-03 18:55:46] No more queued emails, exiting
+[2020-08-03 18:56:40] Sending queued emails
+[2020-08-03 18:56:40] No more queued emails, exiting
+[2020-08-03 18:57:46] Sending queued emails
+[2020-08-03 18:57:46] No more queued emails, exiting
+[2020-08-03 18:58:39] Sending queued emails
+[2020-08-03 18:58:39] No more queued emails, exiting
+[2020-08-03 18:59:46] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 18:59:46] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 18:59:46] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 18:59:46] Sending queued emails
+[2020-08-03 18:59:46] No more queued emails, exiting
+[2020-08-03 19:00:40] Sending queued emails
+[2020-08-03 19:00:40] No more queued emails, exiting
+[2020-08-03 19:01:47] Sending queued emails
+[2020-08-03 19:01:47] No more queued emails, exiting
+[2020-08-03 19:02:40] Sending queued emails
+[2020-08-03 19:02:40] No more queued emails, exiting
+[2020-08-03 19:03:38] Sending queued emails
+[2020-08-03 19:03:38] No more queued emails, exiting
+[2020-08-03 19:04:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 19:04:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 19:04:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 19:04:40] Sending queued emails
+[2020-08-03 19:04:40] No more queued emails, exiting
+[2020-08-03 19:05:47] Sending queued emails
+[2020-08-03 19:05:47] No more queued emails, exiting
+[2020-08-03 19:06:40] Sending queued emails
+[2020-08-03 19:06:40] No more queued emails, exiting
+[2020-08-03 19:07:47] Sending queued emails
+[2020-08-03 19:07:47] No more queued emails, exiting
+[2020-08-03 19:08:40] Sending queued emails
+[2020-08-03 19:08:40] No more queued emails, exiting
+[2020-08-03 19:09:47] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 19:09:47] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 19:09:47] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 19:09:47] Sending queued emails
+[2020-08-03 19:09:47] No more queued emails, exiting
+[2020-08-03 19:10:40] Sending queued emails
+[2020-08-03 19:10:40] No more queued emails, exiting
+[2020-08-03 19:11:47] Sending queued emails
+[2020-08-03 19:11:47] No more queued emails, exiting
+[2020-08-03 19:12:40] Sending queued emails
+[2020-08-03 19:12:40] No more queued emails, exiting
+[2020-08-03 19:13:47] Sending queued emails
+[2020-08-03 19:13:47] No more queued emails, exiting
+[2020-08-03 19:14:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 19:14:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 19:14:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 19:14:40] Sending queued emails
+[2020-08-03 19:14:40] No more queued emails, exiting
+[2020-08-03 19:15:40] Sending queued emails
+[2020-08-03 19:15:40] No more queued emails, exiting
+[2020-08-03 19:16:40] Sending queued emails
+[2020-08-03 19:16:40] No more queued emails, exiting
+[2020-08-03 19:17:50] Sending queued emails
+[2020-08-03 19:17:50] No more queued emails, exiting
+[2020-08-03 19:18:40] Sending queued emails
+[2020-08-03 19:18:40] No more queued emails, exiting
+[2020-08-03 19:19:47] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 19:19:47] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 19:19:47] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 19:19:47] Sending queued emails
+[2020-08-03 19:19:47] No more queued emails, exiting
+[2020-08-03 19:20:40] Sending queued emails
+[2020-08-03 19:20:40] No more queued emails, exiting
+[2020-08-03 19:21:46] Sending queued emails
+[2020-08-03 19:21:46] No more queued emails, exiting
+[2020-08-03 19:22:40] Sending queued emails
+[2020-08-03 19:22:40] No more queued emails, exiting
+[2020-08-03 19:23:47] Sending queued emails
+[2020-08-03 19:23:47] No more queued emails, exiting
+[2020-08-03 19:24:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 19:24:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 19:24:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 19:24:41] Sending queued emails
+[2020-08-03 19:24:41] No more queued emails, exiting
+[2020-08-03 19:25:47] Sending queued emails
+[2020-08-03 19:25:47] No more queued emails, exiting
+[2020-08-03 19:26:40] Sending queued emails
+[2020-08-03 19:26:40] No more queued emails, exiting
+[2020-08-03 19:27:47] Sending queued emails
+[2020-08-03 19:27:47] No more queued emails, exiting
+[2020-08-03 19:28:40] Sending queued emails
+[2020-08-03 19:28:40] No more queued emails, exiting
+[2020-08-03 19:29:49] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 19:29:49] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 19:29:49] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 19:29:49] Sending queued emails
+[2020-08-03 19:29:49] No more queued emails, exiting
+[2020-08-03 19:30:40] Sending queued emails
+[2020-08-03 19:30:40] No more queued emails, exiting
+[2020-08-03 19:31:49] Sending queued emails
+[2020-08-03 19:31:49] No more queued emails, exiting
+[2020-08-03 19:32:40] Sending queued emails
+[2020-08-03 19:32:40] No more queued emails, exiting
+[2020-08-03 19:33:43] Sending queued emails
+[2020-08-03 19:33:43] No more queued emails, exiting
+[2020-08-03 19:34:41] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 19:34:41] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 19:34:41] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 19:34:41] Sending queued emails
+[2020-08-03 19:34:41] No more queued emails, exiting
+[2020-08-03 19:35:39] Sending queued emails
+[2020-08-03 19:35:39] No more queued emails, exiting
+[2020-08-03 19:36:41] Sending queued emails
+[2020-08-03 19:36:41] No more queued emails, exiting
+[2020-08-03 19:37:45] Sending queued emails
+[2020-08-03 19:37:45] No more queued emails, exiting
+[2020-08-03 19:38:38] Sending queued emails
+[2020-08-03 19:38:38] No more queued emails, exiting
+[2020-08-03 19:39:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 19:39:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 19:39:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 19:39:39] Sending queued emails
+[2020-08-03 19:39:39] No more queued emails, exiting
+[2020-08-03 19:40:38] Sending queued emails
+[2020-08-03 19:40:38] No more queued emails, exiting
+[2020-08-03 19:41:46] Sending queued emails
+[2020-08-03 19:41:46] No more queued emails, exiting
+[2020-08-03 19:42:40] Sending queued emails
+[2020-08-03 19:42:40] No more queued emails, exiting
+[2020-08-03 19:43:38] Sending queued emails
+[2020-08-03 19:43:38] No more queued emails, exiting
+[2020-08-03 19:44:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 19:44:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 19:44:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 19:44:40] Sending queued emails
+[2020-08-03 19:44:40] No more queued emails, exiting
+[2020-08-03 19:45:39] Sending queued emails
+[2020-08-03 19:45:39] No more queued emails, exiting
+[2020-08-03 19:46:38] Sending queued emails
+[2020-08-03 19:46:38] No more queued emails, exiting
+[2020-08-03 19:47:38] Sending queued emails
+[2020-08-03 19:47:38] No more queued emails, exiting
+[2020-08-03 19:48:39] Sending queued emails
+[2020-08-03 19:48:39] No more queued emails, exiting
+[2020-08-03 19:49:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 19:49:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 19:49:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 19:49:39] Sending queued emails
+[2020-08-03 19:49:39] No more queued emails, exiting
+[2020-08-03 19:50:41] Sending queued emails
+[2020-08-03 19:50:41] No more queued emails, exiting
+[2020-08-03 19:51:39] Sending queued emails
+[2020-08-03 19:51:39] No more queued emails, exiting
+[2020-08-03 19:52:40] Sending queued emails
+[2020-08-03 19:52:40] No more queued emails, exiting
+[2020-08-03 19:53:51] Sending queued emails
+[2020-08-03 19:53:51] No more queued emails, exiting
+[2020-08-03 19:54:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 19:54:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 19:54:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 19:54:39] Sending queued emails
+[2020-08-03 19:54:39] No more queued emails, exiting
+[2020-08-03 19:55:38] Sending queued emails
+[2020-08-03 19:55:38] No more queued emails, exiting
+[2020-08-03 19:56:38] Sending queued emails
+[2020-08-03 19:56:38] No more queued emails, exiting
+[2020-08-03 19:57:39] Sending queued emails
+[2020-08-03 19:57:39] No more queued emails, exiting
+[2020-08-03 19:58:40] Sending queued emails
+[2020-08-03 19:58:40] No more queued emails, exiting
+[2020-08-03 19:59:51] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 19:59:51] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 19:59:51] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 19:59:51] Sending queued emails
+[2020-08-03 19:59:51] No more queued emails, exiting
+[2020-08-03 20:00:40] Sending queued emails
+[2020-08-03 20:00:40] No more queued emails, exiting
+[2020-08-03 20:01:46] Sending queued emails
+[2020-08-03 20:01:46] No more queued emails, exiting
+[2020-08-03 20:02:40] Sending queued emails
+[2020-08-03 20:02:40] No more queued emails, exiting
+[2020-08-03 20:03:39] Sending queued emails
+[2020-08-03 20:03:39] No more queued emails, exiting
+[2020-08-03 20:04:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 20:04:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 20:04:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 20:04:40] Sending queued emails
+[2020-08-03 20:04:40] No more queued emails, exiting
+[2020-08-03 20:05:39] Sending queued emails
+[2020-08-03 20:05:39] No more queued emails, exiting
+[2020-08-03 20:06:40] Sending queued emails
+[2020-08-03 20:06:40] No more queued emails, exiting
+[2020-08-03 20:07:38] Sending queued emails
+[2020-08-03 20:07:38] No more queued emails, exiting
+[2020-08-03 20:08:38] Sending queued emails
+[2020-08-03 20:08:38] No more queued emails, exiting
+[2020-08-03 20:09:26] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 20:09:26] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 20:09:26] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 20:09:26] Sending queued emails
+[2020-08-03 20:09:26] No more queued emails, exiting
+[2020-08-03 20:10:40] Sending queued emails
+[2020-08-03 20:10:40] No more queued emails, exiting
+[2020-08-03 20:11:27] Sending queued emails
+[2020-08-03 20:11:27] No more queued emails, exiting
+[2020-08-03 20:12:38] Sending queued emails
+[2020-08-03 20:12:38] No more queued emails, exiting
+[2020-08-03 20:13:28] Sending queued emails
+[2020-08-03 20:13:28] No more queued emails, exiting
+[2020-08-03 20:14:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 20:14:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 20:14:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 20:14:38] Sending queued emails
+[2020-08-03 20:14:38] No more queued emails, exiting
+[2020-08-03 20:15:29] Sending queued emails
+[2020-08-03 20:15:29] No more queued emails, exiting
+[2020-08-03 20:16:40] Sending queued emails
+[2020-08-03 20:16:40] No more queued emails, exiting
+[2020-08-03 20:17:30] Sending queued emails
+[2020-08-03 20:17:30] No more queued emails, exiting
+[2020-08-03 20:18:40] Sending queued emails
+[2020-08-03 20:18:40] No more queued emails, exiting
+[2020-08-03 20:19:33] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 20:19:33] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 20:19:33] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 20:19:33] Sending queued emails
+[2020-08-03 20:19:33] No more queued emails, exiting
+[2020-08-03 20:20:40] Sending queued emails
+[2020-08-03 20:20:40] No more queued emails, exiting
+[2020-08-03 20:21:40] Sending queued emails
+[2020-08-03 20:21:40] No more queued emails, exiting
+[2020-08-03 20:22:40] Sending queued emails
+[2020-08-03 20:22:40] No more queued emails, exiting
+[2020-08-03 20:23:46] Sending queued emails
+[2020-08-03 20:23:46] No more queued emails, exiting
+[2020-08-03 20:24:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 20:24:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 20:24:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 20:24:40] Sending queued emails
+[2020-08-03 20:24:40] No more queued emails, exiting
+[2020-08-03 20:25:38] Sending queued emails
+[2020-08-03 20:25:38] No more queued emails, exiting
+[2020-08-03 20:26:40] Sending queued emails
+[2020-08-03 20:26:40] No more queued emails, exiting
+[2020-08-03 20:27:38] Sending queued emails
+[2020-08-03 20:27:38] No more queued emails, exiting
+[2020-08-03 20:28:40] Sending queued emails
+[2020-08-03 20:28:40] No more queued emails, exiting
+[2020-08-03 20:29:46] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 20:29:46] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 20:29:46] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 20:29:46] Sending queued emails
+[2020-08-03 20:29:46] No more queued emails, exiting
+[2020-08-03 20:30:40] Sending queued emails
+[2020-08-03 20:30:40] No more queued emails, exiting
+[2020-08-03 20:31:46] Sending queued emails
+[2020-08-03 20:31:46] No more queued emails, exiting
+[2020-08-03 20:32:38] Sending queued emails
+[2020-08-03 20:32:38] No more queued emails, exiting
+[2020-08-03 20:33:46] Sending queued emails
+[2020-08-03 20:33:46] No more queued emails, exiting
+[2020-08-03 20:34:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 20:34:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 20:34:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 20:34:40] Sending queued emails
+[2020-08-03 20:34:40] No more queued emails, exiting
+[2020-08-03 20:35:46] Sending queued emails
+[2020-08-03 20:35:46] No more queued emails, exiting
+[2020-08-03 20:36:40] Sending queued emails
+[2020-08-03 20:36:40] No more queued emails, exiting
+[2020-08-03 20:37:46] Sending queued emails
+[2020-08-03 20:37:46] No more queued emails, exiting
+[2020-08-03 20:38:40] Sending queued emails
+[2020-08-03 20:38:40] No more queued emails, exiting
+[2020-08-03 20:39:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 20:39:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 20:39:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 20:39:39] Sending queued emails
+[2020-08-03 20:39:39] No more queued emails, exiting
+[2020-08-03 20:40:40] Sending queued emails
+[2020-08-03 20:40:40] No more queued emails, exiting
+[2020-08-03 20:41:38] Sending queued emails
+[2020-08-03 20:41:38] No more queued emails, exiting
+[2020-08-03 20:42:39] Sending queued emails
+[2020-08-03 20:42:39] No more queued emails, exiting
+[2020-08-03 20:43:52] Sending queued emails
+[2020-08-03 20:43:52] No more queued emails, exiting
+[2020-08-03 20:44:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 20:44:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 20:44:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 20:44:40] Sending queued emails
+[2020-08-03 20:44:40] No more queued emails, exiting
+[2020-08-03 20:45:46] Sending queued emails
+[2020-08-03 20:45:46] No more queued emails, exiting
+[2020-08-03 20:46:40] Sending queued emails
+[2020-08-03 20:46:40] No more queued emails, exiting
+[2020-08-03 20:47:44] Sending queued emails
+[2020-08-03 20:47:44] No more queued emails, exiting
+[2020-08-03 20:48:38] Sending queued emails
+[2020-08-03 20:48:38] No more queued emails, exiting
+[2020-08-03 20:49:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 20:49:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 20:49:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 20:49:38] Sending queued emails
+[2020-08-03 20:49:38] No more queued emails, exiting
+[2020-08-03 20:50:38] Sending queued emails
+[2020-08-03 20:50:38] No more queued emails, exiting
+[2020-08-03 20:51:38] Sending queued emails
+[2020-08-03 20:51:38] No more queued emails, exiting
+[2020-08-03 20:52:40] Sending queued emails
+[2020-08-03 20:52:40] No more queued emails, exiting
+[2020-08-03 20:53:38] Sending queued emails
+[2020-08-03 20:53:38] No more queued emails, exiting
+[2020-08-03 20:54:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 20:54:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 20:54:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 20:54:39] Sending queued emails
+[2020-08-03 20:54:39] No more queued emails, exiting
+[2020-08-03 20:55:39] Sending queued emails
+[2020-08-03 20:55:39] No more queued emails, exiting
+[2020-08-03 20:56:40] Sending queued emails
+[2020-08-03 20:56:40] No more queued emails, exiting
+[2020-08-03 20:57:47] Sending queued emails
+[2020-08-03 20:57:47] No more queued emails, exiting
+[2020-08-03 20:58:40] Sending queued emails
+[2020-08-03 20:58:40] No more queued emails, exiting
+[2020-08-03 20:59:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 20:59:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 20:59:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 20:59:38] Sending queued emails
+[2020-08-03 20:59:38] No more queued emails, exiting
+[2020-08-03 21:00:40] Sending queued emails
+[2020-08-03 21:00:40] No more queued emails, exiting
+[2020-08-03 21:01:42] Sending queued emails
+[2020-08-03 21:01:42] No more queued emails, exiting
+[2020-08-03 21:02:41] Sending queued emails
+[2020-08-03 21:02:41] No more queued emails, exiting
+[2020-08-03 21:03:48] Sending queued emails
+[2020-08-03 21:03:48] No more queued emails, exiting
+[2020-08-03 21:04:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 21:04:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 21:04:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 21:04:40] Sending queued emails
+[2020-08-03 21:04:40] No more queued emails, exiting
+[2020-08-03 21:05:46] Sending queued emails
+[2020-08-03 21:05:46] No more queued emails, exiting
+[2020-08-03 21:06:41] Sending queued emails
+[2020-08-03 21:06:41] No more queued emails, exiting
+[2020-08-03 21:07:47] Sending queued emails
+[2020-08-03 21:07:47] No more queued emails, exiting
+[2020-08-03 21:08:39] Sending queued emails
+[2020-08-03 21:08:39] No more queued emails, exiting
+[2020-08-03 21:09:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 21:09:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 21:09:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 21:09:39] Sending queued emails
+[2020-08-03 21:09:39] No more queued emails, exiting
+[2020-08-03 21:10:41] Sending queued emails
+[2020-08-03 21:10:41] No more queued emails, exiting
+[2020-08-03 21:11:39] Sending queued emails
+[2020-08-03 21:11:39] No more queued emails, exiting
+[2020-08-03 21:12:40] Sending queued emails
+[2020-08-03 21:12:40] No more queued emails, exiting
+[2020-08-03 21:13:47] Sending queued emails
+[2020-08-03 21:13:47] No more queued emails, exiting
+[2020-08-03 21:14:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 21:14:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 21:14:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 21:14:40] Sending queued emails
+[2020-08-03 21:14:40] No more queued emails, exiting
+[2020-08-03 21:15:51] Sending queued emails
+[2020-08-03 21:15:51] No more queued emails, exiting
+[2020-08-03 21:16:40] Sending queued emails
+[2020-08-03 21:16:40] No more queued emails, exiting
+[2020-08-03 21:17:38] Sending queued emails
+[2020-08-03 21:17:38] No more queued emails, exiting
+[2020-08-03 21:18:41] Sending queued emails
+[2020-08-03 21:18:41] No more queued emails, exiting
+[2020-08-03 21:19:47] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 21:19:47] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 21:19:47] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 21:19:47] Sending queued emails
+[2020-08-03 21:19:47] No more queued emails, exiting
+[2020-08-03 21:20:40] Sending queued emails
+[2020-08-03 21:20:40] No more queued emails, exiting
+[2020-08-03 21:21:47] Sending queued emails
+[2020-08-03 21:21:47] No more queued emails, exiting
+[2020-08-03 21:22:39] Sending queued emails
+[2020-08-03 21:22:39] No more queued emails, exiting
+[2020-08-03 21:23:04] Sending queued emails
+[2020-08-03 21:23:04] No more queued emails, exiting
+[2020-08-03 21:24:41] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 21:24:41] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 21:24:41] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 21:24:41] Sending queued emails
+[2020-08-03 21:24:41] No more queued emails, exiting
+[2020-08-03 21:25:21] Sending queued emails
+[2020-08-03 21:25:21] No more queued emails, exiting
+[2020-08-03 21:26:40] Sending queued emails
+[2020-08-03 21:26:40] No more queued emails, exiting
+[2020-08-03 21:27:20] Sending queued emails
+[2020-08-03 21:27:20] No more queued emails, exiting
+[2020-08-03 21:28:39] Sending queued emails
+[2020-08-03 21:28:39] No more queued emails, exiting
+[2020-08-03 21:29:20] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 21:29:20] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 21:29:20] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 21:29:20] Sending queued emails
+[2020-08-03 21:29:20] No more queued emails, exiting
+[2020-08-03 21:30:39] Sending queued emails
+[2020-08-03 21:30:39] No more queued emails, exiting
+[2020-08-03 21:31:26] Sending queued emails
+[2020-08-03 21:31:26] No more queued emails, exiting
+[2020-08-03 21:32:39] Sending queued emails
+[2020-08-03 21:32:39] No more queued emails, exiting
+[2020-08-03 21:33:39] Sending queued emails
+[2020-08-03 21:33:39] No more queued emails, exiting
+[2020-08-03 21:34:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 21:34:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 21:34:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 21:34:39] Sending queued emails
+[2020-08-03 21:34:39] No more queued emails, exiting
+[2020-08-03 21:35:39] Sending queued emails
+[2020-08-03 21:35:39] No more queued emails, exiting
+[2020-08-03 21:36:40] Sending queued emails
+[2020-08-03 21:36:40] No more queued emails, exiting
+[2020-08-03 21:37:47] Sending queued emails
+[2020-08-03 21:37:47] No more queued emails, exiting
+[2020-08-03 21:38:40] Sending queued emails
+[2020-08-03 21:38:40] No more queued emails, exiting
+[2020-08-03 21:39:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 21:39:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 21:39:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 21:39:39] Sending queued emails
+[2020-08-03 21:39:39] No more queued emails, exiting
+[2020-08-03 21:40:40] Sending queued emails
+[2020-08-03 21:40:40] No more queued emails, exiting
+[2020-08-03 21:41:39] Sending queued emails
+[2020-08-03 21:41:39] No more queued emails, exiting
+[2020-08-03 21:42:40] Sending queued emails
+[2020-08-03 21:42:40] No more queued emails, exiting
+[2020-08-03 21:43:39] Sending queued emails
+[2020-08-03 21:43:39] No more queued emails, exiting
+[2020-08-03 21:44:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 21:44:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 21:44:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 21:44:39] Sending queued emails
+[2020-08-03 21:44:39] No more queued emails, exiting
+[2020-08-03 21:45:39] Sending queued emails
+[2020-08-03 21:45:39] No more queued emails, exiting
+[2020-08-03 21:46:40] Sending queued emails
+[2020-08-03 21:46:40] No more queued emails, exiting
+[2020-08-03 21:47:39] Sending queued emails
+[2020-08-03 21:47:39] No more queued emails, exiting
+[2020-08-03 21:48:40] Sending queued emails
+[2020-08-03 21:48:40] No more queued emails, exiting
+[2020-08-03 21:49:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 21:49:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 21:49:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 21:49:40] Sending queued emails
+[2020-08-03 21:49:40] No more queued emails, exiting
+[2020-08-03 21:50:39] Sending queued emails
+[2020-08-03 21:50:39] No more queued emails, exiting
+[2020-08-03 21:51:39] Sending queued emails
+[2020-08-03 21:51:39] No more queued emails, exiting
+[2020-08-03 21:52:38] Sending queued emails
+[2020-08-03 21:52:38] No more queued emails, exiting
+[2020-08-03 21:53:53] Sending queued emails
+[2020-08-03 21:53:53] No more queued emails, exiting
+[2020-08-03 21:54:41] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 21:54:41] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 21:54:41] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 21:54:41] Sending queued emails
+[2020-08-03 21:54:41] No more queued emails, exiting
+[2020-08-03 21:55:39] Sending queued emails
+[2020-08-03 21:55:39] No more queued emails, exiting
+[2020-08-03 21:56:09] Sending queued emails
+[2020-08-03 21:56:09] No more queued emails, exiting
+[2020-08-03 21:57:39] Sending queued emails
+[2020-08-03 21:57:39] No more queued emails, exiting
+[2020-08-03 21:58:10] Sending queued emails
+[2020-08-03 21:58:10] No more queued emails, exiting
+[2020-08-03 21:59:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 21:59:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 21:59:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 21:59:39] Sending queued emails
+[2020-08-03 21:59:39] No more queued emails, exiting
+[2020-08-03 22:00:11] Sending queued emails
+[2020-08-03 22:00:11] No more queued emails, exiting
+[2020-08-03 22:01:39] Sending queued emails
+[2020-08-03 22:01:39] No more queued emails, exiting
+[2020-08-03 22:02:11] Sending queued emails
+[2020-08-03 22:02:11] No more queued emails, exiting
+[2020-08-03 22:03:38] Sending queued emails
+[2020-08-03 22:03:38] No more queued emails, exiting
+[2020-08-03 22:04:15] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 22:04:15] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 22:04:15] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 22:04:15] Sending queued emails
+[2020-08-03 22:04:15] No more queued emails, exiting
+[2020-08-03 22:05:37] Sending queued emails
+[2020-08-03 22:05:37] No more queued emails, exiting
+[2020-08-03 22:06:40] Sending queued emails
+[2020-08-03 22:06:40] No more queued emails, exiting
+[2020-08-03 22:07:46] Sending queued emails
+[2020-08-03 22:07:46] No more queued emails, exiting
+[2020-08-03 22:08:40] Sending queued emails
+[2020-08-03 22:08:40] No more queued emails, exiting
+[2020-08-03 22:09:46] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 22:09:46] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 22:09:46] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 22:09:46] Sending queued emails
+[2020-08-03 22:09:46] No more queued emails, exiting
+[2020-08-03 22:10:40] Sending queued emails
+[2020-08-03 22:10:40] No more queued emails, exiting
+[2020-08-03 22:11:50] Sending queued emails
+[2020-08-03 22:11:50] No more queued emails, exiting
+[2020-08-03 22:12:40] Sending queued emails
+[2020-08-03 22:12:40] No more queued emails, exiting
+[2020-08-03 22:13:48] Sending queued emails
+[2020-08-03 22:13:48] No more queued emails, exiting
+[2020-08-03 22:14:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 22:14:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 22:14:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 22:14:40] Sending queued emails
+[2020-08-03 22:14:40] No more queued emails, exiting
+[2020-08-03 22:15:46] Sending queued emails
+[2020-08-03 22:15:46] No more queued emails, exiting
+[2020-08-03 22:16:40] Sending queued emails
+[2020-08-03 22:16:40] No more queued emails, exiting
+[2020-08-03 22:17:46] Sending queued emails
+[2020-08-03 22:17:46] No more queued emails, exiting
+[2020-08-03 22:18:40] Sending queued emails
+[2020-08-03 22:18:40] No more queued emails, exiting
+[2020-08-03 22:19:47] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 22:19:47] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 22:19:47] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 22:19:47] Sending queued emails
+[2020-08-03 22:19:47] No more queued emails, exiting
+[2020-08-03 22:20:38] Sending queued emails
+[2020-08-03 22:20:38] No more queued emails, exiting
+[2020-08-03 22:21:46] Sending queued emails
+[2020-08-03 22:21:46] No more queued emails, exiting
+[2020-08-03 22:22:40] Sending queued emails
+[2020-08-03 22:22:40] No more queued emails, exiting
+[2020-08-03 22:23:46] Sending queued emails
+[2020-08-03 22:23:46] No more queued emails, exiting
+[2020-08-03 22:24:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 22:24:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 22:24:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 22:24:40] Sending queued emails
+[2020-08-03 22:24:40] No more queued emails, exiting
+[2020-08-03 22:25:46] Sending queued emails
+[2020-08-03 22:25:46] No more queued emails, exiting
+[2020-08-03 22:26:40] Sending queued emails
+[2020-08-03 22:26:40] No more queued emails, exiting
+[2020-08-03 22:27:38] Sending queued emails
+[2020-08-03 22:27:38] No more queued emails, exiting
+[2020-08-03 22:28:38] Sending queued emails
+[2020-08-03 22:28:38] No more queued emails, exiting
+[2020-08-03 22:29:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 22:29:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 22:29:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 22:29:39] Sending queued emails
+[2020-08-03 22:29:39] No more queued emails, exiting
+[2020-08-03 22:30:39] Sending queued emails
+[2020-08-03 22:30:39] No more queued emails, exiting
+[2020-08-03 22:31:38] Sending queued emails
+[2020-08-03 22:31:38] No more queued emails, exiting
+[2020-08-03 22:32:38] Sending queued emails
+[2020-08-03 22:32:38] No more queued emails, exiting
+[2020-08-03 22:33:52] Sending queued emails
+[2020-08-03 22:33:52] No more queued emails, exiting
+[2020-08-03 22:34:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 22:34:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 22:34:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 22:34:38] Sending queued emails
+[2020-08-03 22:34:38] No more queued emails, exiting
+[2020-08-03 22:35:38] Sending queued emails
+[2020-08-03 22:35:38] No more queued emails, exiting
+[2020-08-03 22:36:39] Sending queued emails
+[2020-08-03 22:36:39] No more queued emails, exiting
+[2020-08-03 22:37:38] Sending queued emails
+[2020-08-03 22:37:38] No more queued emails, exiting
+[2020-08-03 22:38:39] Sending queued emails
+[2020-08-03 22:38:39] No more queued emails, exiting
+[2020-08-03 22:39:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 22:39:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 22:39:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 22:39:39] Sending queued emails
+[2020-08-03 22:39:39] No more queued emails, exiting
+[2020-08-03 22:40:38] Sending queued emails
+[2020-08-03 22:40:38] No more queued emails, exiting
+[2020-08-03 22:41:39] Sending queued emails
+[2020-08-03 22:41:39] No more queued emails, exiting
+[2020-08-03 22:42:39] Sending queued emails
+[2020-08-03 22:42:39] No more queued emails, exiting
+[2020-08-03 22:43:38] Sending queued emails
+[2020-08-03 22:43:38] No more queued emails, exiting
+[2020-08-03 22:44:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 22:44:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 22:44:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 22:44:38] Sending queued emails
+[2020-08-03 22:44:38] No more queued emails, exiting
+[2020-08-03 22:45:52] Sending queued emails
+[2020-08-03 22:45:52] No more queued emails, exiting
+[2020-08-03 22:46:38] Sending queued emails
+[2020-08-03 22:46:38] No more queued emails, exiting
+[2020-08-03 22:47:52] Sending queued emails
+[2020-08-03 22:47:52] No more queued emails, exiting
+[2020-08-03 22:48:40] Sending queued emails
+[2020-08-03 22:48:40] No more queued emails, exiting
+[2020-08-03 22:49:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 22:49:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 22:49:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 22:49:38] Sending queued emails
+[2020-08-03 22:49:38] No more queued emails, exiting
+[2020-08-03 22:50:40] Sending queued emails
+[2020-08-03 22:50:40] No more queued emails, exiting
+[2020-08-03 22:51:38] Sending queued emails
+[2020-08-03 22:51:38] No more queued emails, exiting
+[2020-08-03 22:52:40] Sending queued emails
+[2020-08-03 22:52:40] No more queued emails, exiting
+[2020-08-03 22:53:34] Sending queued emails
+[2020-08-03 22:53:34] No more queued emails, exiting
+[2020-08-03 22:54:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 22:54:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 22:54:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 22:54:40] Sending queued emails
+[2020-08-03 22:54:40] No more queued emails, exiting
+[2020-08-03 22:55:34] Sending queued emails
+[2020-08-03 22:55:34] No more queued emails, exiting
+[2020-08-03 22:56:40] Sending queued emails
+[2020-08-03 22:56:40] No more queued emails, exiting
+[2020-08-03 22:57:43] Sending queued emails
+[2020-08-03 22:57:43] No more queued emails, exiting
+[2020-08-03 22:58:38] Sending queued emails
+[2020-08-03 22:58:38] No more queued emails, exiting
+[2020-08-03 22:59:13] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 22:59:13] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 22:59:13] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 22:59:13] Sending queued emails
+[2020-08-03 22:59:13] No more queued emails, exiting
+[2020-08-03 23:00:40] Sending queued emails
+[2020-08-03 23:00:40] No more queued emails, exiting
+[2020-08-03 23:01:36] Sending queued emails
+[2020-08-03 23:01:36] No more queued emails, exiting
+[2020-08-03 23:02:40] Sending queued emails
+[2020-08-03 23:02:40] No more queued emails, exiting
+[2020-08-03 23:03:38] Sending queued emails
+[2020-08-03 23:03:38] No more queued emails, exiting
+[2020-08-03 23:04:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 23:04:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 23:04:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 23:04:39] Sending queued emails
+[2020-08-03 23:04:39] No more queued emails, exiting
+[2020-08-03 23:05:39] Sending queued emails
+[2020-08-03 23:05:39] No more queued emails, exiting
+[2020-08-03 23:06:34] Sending queued emails
+[2020-08-03 23:06:34] No more queued emails, exiting
+[2020-08-03 23:07:47] Sending queued emails
+[2020-08-03 23:07:47] No more queued emails, exiting
+[2020-08-03 23:08:36] Sending queued emails
+[2020-08-03 23:08:36] No more queued emails, exiting
+[2020-08-03 23:09:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 23:09:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 23:09:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 23:09:38] Sending queued emails
+[2020-08-03 23:09:38] No more queued emails, exiting
+[2020-08-03 23:10:39] Sending queued emails
+[2020-08-03 23:10:39] No more queued emails, exiting
+[2020-08-03 23:11:44] Sending queued emails
+[2020-08-03 23:11:44] No more queued emails, exiting
+[2020-08-03 23:12:40] Sending queued emails
+[2020-08-03 23:12:40] No more queued emails, exiting
+[2020-08-03 23:13:39] Sending queued emails
+[2020-08-03 23:13:39] No more queued emails, exiting
+[2020-08-03 23:14:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 23:14:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 23:14:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 23:14:40] Sending queued emails
+[2020-08-03 23:14:40] No more queued emails, exiting
+[2020-08-03 23:15:47] Sending queued emails
+[2020-08-03 23:15:47] No more queued emails, exiting
+[2020-08-03 23:16:38] Sending queued emails
+[2020-08-03 23:16:38] No more queued emails, exiting
+[2020-08-03 23:17:46] Sending queued emails
+[2020-08-03 23:17:46] No more queued emails, exiting
+[2020-08-03 23:18:39] Sending queued emails
+[2020-08-03 23:18:39] No more queued emails, exiting
+[2020-08-03 23:19:52] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 23:19:52] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 23:19:52] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 23:19:52] Sending queued emails
+[2020-08-03 23:19:52] No more queued emails, exiting
+[2020-08-03 23:20:40] Sending queued emails
+[2020-08-03 23:20:40] No more queued emails, exiting
+[2020-08-03 23:21:45] Sending queued emails
+[2020-08-03 23:21:45] No more queued emails, exiting
+[2020-08-03 23:22:40] Sending queued emails
+[2020-08-03 23:22:40] No more queued emails, exiting
+[2020-08-03 23:23:46] Sending queued emails
+[2020-08-03 23:23:46] No more queued emails, exiting
+[2020-08-03 23:24:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 23:24:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 23:24:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 23:24:40] Sending queued emails
+[2020-08-03 23:24:40] No more queued emails, exiting
+[2020-08-03 23:25:47] Sending queued emails
+[2020-08-03 23:25:47] No more queued emails, exiting
+[2020-08-03 23:26:38] Sending queued emails
+[2020-08-03 23:26:38] No more queued emails, exiting
+[2020-08-03 23:27:39] Sending queued emails
+[2020-08-03 23:27:39] No more queued emails, exiting
+[2020-08-03 23:28:40] Sending queued emails
+[2020-08-03 23:28:40] No more queued emails, exiting
+[2020-08-03 23:29:52] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 23:29:52] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 23:29:52] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 23:29:52] Sending queued emails
+[2020-08-03 23:29:52] No more queued emails, exiting
+[2020-08-03 23:30:40] Sending queued emails
+[2020-08-03 23:30:40] No more queued emails, exiting
+[2020-08-03 23:31:36] Sending queued emails
+[2020-08-03 23:31:36] No more queued emails, exiting
+[2020-08-03 23:32:40] Sending queued emails
+[2020-08-03 23:32:40] No more queued emails, exiting
+[2020-08-03 23:33:09] Sending queued emails
+[2020-08-03 23:33:09] No more queued emails, exiting
+[2020-08-03 23:34:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 23:34:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 23:34:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 23:34:40] Sending queued emails
+[2020-08-03 23:34:40] No more queued emails, exiting
+[2020-08-03 23:35:18] Sending queued emails
+[2020-08-03 23:35:18] No more queued emails, exiting
+[2020-08-03 23:36:40] Sending queued emails
+[2020-08-03 23:36:40] No more queued emails, exiting
+[2020-08-03 23:37:19] Sending queued emails
+[2020-08-03 23:37:19] No more queued emails, exiting
+[2020-08-03 23:38:40] Sending queued emails
+[2020-08-03 23:38:40] No more queued emails, exiting
+[2020-08-03 23:39:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 23:39:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 23:39:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 23:39:39] Sending queued emails
+[2020-08-03 23:39:39] No more queued emails, exiting
+[2020-08-03 23:40:40] Sending queued emails
+[2020-08-03 23:40:40] No more queued emails, exiting
+[2020-08-03 23:41:47] Sending queued emails
+[2020-08-03 23:41:47] No more queued emails, exiting
+[2020-08-03 23:42:40] Sending queued emails
+[2020-08-03 23:42:40] No more queued emails, exiting
+[2020-08-03 23:43:47] Sending queued emails
+[2020-08-03 23:43:47] No more queued emails, exiting
+[2020-08-03 23:44:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 23:44:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 23:44:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 23:44:40] Sending queued emails
+[2020-08-03 23:44:40] No more queued emails, exiting
+[2020-08-03 23:45:39] Sending queued emails
+[2020-08-03 23:45:39] No more queued emails, exiting
+[2020-08-03 23:46:40] Sending queued emails
+[2020-08-03 23:46:40] No more queued emails, exiting
+[2020-08-03 23:47:38] Sending queued emails
+[2020-08-03 23:47:38] No more queued emails, exiting
+[2020-08-03 23:48:24] Sending queued emails
+[2020-08-03 23:48:24] No more queued emails, exiting
+[2020-08-03 23:49:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 23:49:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 23:49:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 23:49:39] Sending queued emails
+[2020-08-03 23:49:39] No more queued emails, exiting
+[2020-08-03 23:50:24] Sending queued emails
+[2020-08-03 23:50:24] No more queued emails, exiting
+[2020-08-03 23:51:38] Sending queued emails
+[2020-08-03 23:51:38] No more queued emails, exiting
+[2020-08-03 23:52:25] Sending queued emails
+[2020-08-03 23:52:25] No more queued emails, exiting
+[2020-08-03 23:53:39] Sending queued emails
+[2020-08-03 23:53:39] No more queued emails, exiting
+[2020-08-03 23:54:25] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 23:54:25] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 23:54:25] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 23:54:25] Sending queued emails
+[2020-08-03 23:54:25] No more queued emails, exiting
+[2020-08-03 23:55:39] Sending queued emails
+[2020-08-03 23:55:39] No more queued emails, exiting
+[2020-08-03 23:56:26] Sending queued emails
+[2020-08-03 23:56:26] No more queued emails, exiting
+[2020-08-03 23:57:38] Sending queued emails
+[2020-08-03 23:57:38] No more queued emails, exiting
+[2020-08-03 23:58:26] Sending queued emails
+[2020-08-03 23:58:26] No more queued emails, exiting
+[2020-08-03 23:59:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-03 23:59:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-03 23:59:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-03 23:59:38] Sending queued emails
+[2020-08-03 23:59:38] No more queued emails, exiting
+[2020-08-04 00:00:39] Sending queued emails
+[2020-08-04 00:00:39] No more queued emails, exiting
+[2020-08-04 00:01:52] Sending queued emails
+[2020-08-04 00:01:52] No more queued emails, exiting
+[2020-08-04 00:02:38] Sending queued emails
+[2020-08-04 00:02:38] No more queued emails, exiting
+[2020-08-04 00:03:38] Sending queued emails
+[2020-08-04 00:03:38] No more queued emails, exiting
+[2020-08-04 00:04:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 00:04:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 00:04:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 00:04:40] Sending queued emails
+[2020-08-04 00:04:40] No more queued emails, exiting
+[2020-08-04 00:05:39] Sending queued emails
+[2020-08-04 00:05:39] No more queued emails, exiting
+[2020-08-04 00:06:40] Sending queued emails
+[2020-08-04 00:06:40] No more queued emails, exiting
+[2020-08-04 00:07:45] Sending queued emails
+[2020-08-04 00:07:45] No more queued emails, exiting
+[2020-08-04 00:08:39] Sending queued emails
+[2020-08-04 00:08:39] No more queued emails, exiting
+[2020-08-04 00:09:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 00:09:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 00:09:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 00:09:39] Sending queued emails
+[2020-08-04 00:09:39] No more queued emails, exiting
+[2020-08-04 00:10:39] Sending queued emails
+[2020-08-04 00:10:39] No more queued emails, exiting
+[2020-08-04 00:11:39] Sending queued emails
+[2020-08-04 00:11:39] No more queued emails, exiting
+[2020-08-04 00:12:40] Sending queued emails
+[2020-08-04 00:12:40] No more queued emails, exiting
+[2020-08-04 00:13:45] Sending queued emails
+[2020-08-04 00:13:45] No more queued emails, exiting
+[2020-08-04 00:14:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 00:14:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 00:14:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 00:14:40] Sending queued emails
+[2020-08-04 00:14:40] No more queued emails, exiting
+[2020-08-04 00:15:39] Sending queued emails
+[2020-08-04 00:15:39] No more queued emails, exiting
+[2020-08-04 00:16:38] Sending queued emails
+[2020-08-04 00:16:38] No more queued emails, exiting
+[2020-08-04 00:17:39] Sending queued emails
+[2020-08-04 00:17:39] No more queued emails, exiting
+[2020-08-04 00:18:39] Sending queued emails
+[2020-08-04 00:18:39] No more queued emails, exiting
+[2020-08-04 00:19:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 00:19:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 00:19:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 00:19:39] Sending queued emails
+[2020-08-04 00:19:39] No more queued emails, exiting
+[2020-08-04 00:20:38] Sending queued emails
+[2020-08-04 00:20:38] No more queued emails, exiting
+[2020-08-04 00:21:39] Sending queued emails
+[2020-08-04 00:21:39] No more queued emails, exiting
+[2020-08-04 00:22:40] Sending queued emails
+[2020-08-04 00:22:40] No more queued emails, exiting
+[2020-08-04 00:23:42] Sending queued emails
+[2020-08-04 00:23:42] No more queued emails, exiting
+[2020-08-04 00:24:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 00:24:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 00:24:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 00:24:39] Sending queued emails
+[2020-08-04 00:24:39] No more queued emails, exiting
+[2020-08-04 00:25:22] Sending queued emails
+[2020-08-04 00:25:22] No more queued emails, exiting
+[2020-08-04 00:26:39] Sending queued emails
+[2020-08-04 00:26:39] No more queued emails, exiting
+[2020-08-04 00:27:22] Sending queued emails
+[2020-08-04 00:27:22] No more queued emails, exiting
+[2020-08-04 00:28:38] Sending queued emails
+[2020-08-04 00:28:38] No more queued emails, exiting
+[2020-08-04 00:29:25] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 00:29:25] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 00:29:25] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 00:29:25] Sending queued emails
+[2020-08-04 00:29:25] No more queued emails, exiting
+[2020-08-04 00:30:20] Sending queued emails
+[2020-08-04 00:30:20] No more queued emails, exiting
+[2020-08-04 00:31:29] Sending queued emails
+[2020-08-04 00:31:29] No more queued emails, exiting
+[2020-08-04 00:32:38] Sending queued emails
+[2020-08-04 00:32:38] No more queued emails, exiting
+[2020-08-04 00:33:29] Sending queued emails
+[2020-08-04 00:33:29] No more queued emails, exiting
+[2020-08-04 00:34:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 00:34:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 00:34:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 00:34:39] Sending queued emails
+[2020-08-04 00:34:39] No more queued emails, exiting
+[2020-08-04 00:35:32] Sending queued emails
+[2020-08-04 00:35:32] No more queued emails, exiting
+[2020-08-04 00:36:40] Sending queued emails
+[2020-08-04 00:36:40] No more queued emails, exiting
+[2020-08-04 00:37:39] Sending queued emails
+[2020-08-04 00:37:39] No more queued emails, exiting
+[2020-08-04 00:38:38] Sending queued emails
+[2020-08-04 00:38:38] No more queued emails, exiting
+[2020-08-04 00:39:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 00:39:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 00:39:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 00:39:38] Sending queued emails
+[2020-08-04 00:39:38] No more queued emails, exiting
+[2020-08-04 00:40:40] Sending queued emails
+[2020-08-04 00:40:40] No more queued emails, exiting
+[2020-08-04 00:41:38] Sending queued emails
+[2020-08-04 00:41:38] No more queued emails, exiting
+[2020-08-04 00:42:38] Sending queued emails
+[2020-08-04 00:42:38] No more queued emails, exiting
+[2020-08-04 00:43:40] Sending queued emails
+[2020-08-04 00:43:40] No more queued emails, exiting
+[2020-08-04 00:44:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 00:44:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 00:44:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 00:44:38] Sending queued emails
+[2020-08-04 00:44:38] No more queued emails, exiting
+[2020-08-04 00:45:48] Sending queued emails
+[2020-08-04 00:45:48] No more queued emails, exiting
+[2020-08-04 00:46:38] Sending queued emails
+[2020-08-04 00:46:38] No more queued emails, exiting
+[2020-08-04 00:47:39] Sending queued emails
+[2020-08-04 00:47:39] No more queued emails, exiting
+[2020-08-04 00:48:38] Sending queued emails
+[2020-08-04 00:48:38] No more queued emails, exiting
+[2020-08-04 00:49:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 00:49:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 00:49:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 00:49:38] Sending queued emails
+[2020-08-04 00:49:38] No more queued emails, exiting
+[2020-08-04 00:50:38] Sending queued emails
+[2020-08-04 00:50:38] No more queued emails, exiting
+[2020-08-04 00:51:39] Sending queued emails
+[2020-08-04 00:51:39] No more queued emails, exiting
+[2020-08-04 00:52:40] Sending queued emails
+[2020-08-04 00:52:40] No more queued emails, exiting
+[2020-08-04 00:53:38] Sending queued emails
+[2020-08-04 00:53:38] No more queued emails, exiting
+[2020-08-04 00:54:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 00:54:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 00:54:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 00:54:38] Sending queued emails
+[2020-08-04 00:54:38] No more queued emails, exiting
+[2020-08-04 00:55:39] Sending queued emails
+[2020-08-04 00:55:39] No more queued emails, exiting
+[2020-08-04 00:56:40] Sending queued emails
+[2020-08-04 00:56:40] No more queued emails, exiting
+[2020-08-04 00:57:38] Sending queued emails
+[2020-08-04 00:57:38] No more queued emails, exiting
+[2020-08-04 00:58:40] Sending queued emails
+[2020-08-04 00:58:40] No more queued emails, exiting
+[2020-08-04 00:59:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 00:59:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 00:59:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 00:59:38] Sending queued emails
+[2020-08-04 00:59:38] No more queued emails, exiting
+[2020-08-04 01:00:39] Sending queued emails
+[2020-08-04 01:00:39] No more queued emails, exiting
+[2020-08-04 01:01:38] Sending queued emails
+[2020-08-04 01:01:38] No more queued emails, exiting
+[2020-08-04 01:02:40] Sending queued emails
+[2020-08-04 01:02:40] No more queued emails, exiting
+[2020-08-04 01:03:39] Sending queued emails
+[2020-08-04 01:03:39] No more queued emails, exiting
+[2020-08-04 01:04:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 01:04:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 01:04:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 01:04:39] Sending queued emails
+[2020-08-04 01:04:39] No more queued emails, exiting
+[2020-08-04 01:05:39] Sending queued emails
+[2020-08-04 01:05:39] No more queued emails, exiting
+[2020-08-04 01:06:40] Sending queued emails
+[2020-08-04 01:06:40] No more queued emails, exiting
+[2020-08-04 01:07:39] Sending queued emails
+[2020-08-04 01:07:39] No more queued emails, exiting
+[2020-08-04 01:08:39] Sending queued emails
+[2020-08-04 01:08:39] No more queued emails, exiting
+[2020-08-04 01:09:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 01:09:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 01:09:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 01:09:39] Sending queued emails
+[2020-08-04 01:09:39] No more queued emails, exiting
+[2020-08-04 01:10:40] Sending queued emails
+[2020-08-04 01:10:40] No more queued emails, exiting
+[2020-08-04 01:11:53] Sending queued emails
+[2020-08-04 01:11:53] No more queued emails, exiting
+[2020-08-04 01:12:39] Sending queued emails
+[2020-08-04 01:12:39] No more queued emails, exiting
+[2020-08-04 01:13:39] Sending queued emails
+[2020-08-04 01:13:39] No more queued emails, exiting
+[2020-08-04 01:14:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 01:14:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 01:14:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 01:14:40] Sending queued emails
+[2020-08-04 01:14:40] No more queued emails, exiting
+[2020-08-04 01:15:47] Sending queued emails
+[2020-08-04 01:15:47] No more queued emails, exiting
+[2020-08-04 01:16:40] Sending queued emails
+[2020-08-04 01:16:40] No more queued emails, exiting
+[2020-08-04 01:17:39] Sending queued emails
+[2020-08-04 01:17:39] No more queued emails, exiting
+[2020-08-04 01:53:56] Sending queued emails
+[2020-08-04 01:53:56] No more queued emails, exiting
+[2020-08-04 01:53:56] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 01:53:56] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 01:53:56] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 03:54:55] Sending queued emails
+[2020-08-04 03:54:55] No more queued emails, exiting
+[2020-08-04 03:54:55] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 03:54:55] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 03:54:55] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 05:27:29] Sending queued emails
+[2020-08-04 05:27:29] No more queued emails, exiting
+[2020-08-04 05:27:29] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 05:27:29] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 05:27:29] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 07:28:28] Sending queued emails
+[2020-08-04 07:28:28] No more queued emails, exiting
+[2020-08-04 07:28:28] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 07:28:28] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 07:28:28] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 08:24:13] Sending queued emails
+[2020-08-04 08:24:13] No more queued emails, exiting
+[2020-08-04 08:24:13] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 08:24:13] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 08:24:13] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 09:01:17] Sending queued emails
+[2020-08-04 09:01:17] No more queued emails, exiting
+[2020-08-04 09:01:17] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 09:01:17] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 09:01:17] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 10:21:44] Sending queued emails
+[2020-08-04 10:21:44] No more queued emails, exiting
+[2020-08-04 10:21:44] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 10:21:44] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 10:21:44] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 12:22:42] Sending queued emails
+[2020-08-04 12:22:42] No more queued emails, exiting
+[2020-08-04 12:22:42] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 12:22:42] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 12:22:42] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 13:32:18] Sending queued emails
+[2020-08-04 13:32:18] No more queued emails, exiting
+[2020-08-04 13:32:18] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 13:32:18] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 13:32:18] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 13:33:16] Sending queued emails
+[2020-08-04 13:33:16] No more queued emails, exiting
+[2020-08-04 13:34:16] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 13:34:16] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 13:34:16] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 13:34:16] Sending queued emails
+[2020-08-04 13:34:16] No more queued emails, exiting
+[2020-08-04 13:35:17] Sending queued emails
+[2020-08-04 13:35:17] No more queued emails, exiting
+[2020-08-04 13:36:15] Sending queued emails
+[2020-08-04 13:36:15] No more queued emails, exiting
+[2020-08-04 13:37:15] Sending queued emails
+[2020-08-04 13:37:15] No more queued emails, exiting
+[2020-08-04 13:38:18] Sending queued emails
+[2020-08-04 13:38:18] No more queued emails, exiting
+[2020-08-04 13:39:15] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 13:39:15] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 13:39:15] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 13:39:15] Sending queued emails
+[2020-08-04 13:39:15] No more queued emails, exiting
+[2020-08-04 13:40:16] Sending queued emails
+[2020-08-04 13:40:16] No more queued emails, exiting
+[2020-08-04 13:41:16] Sending queued emails
+[2020-08-04 13:41:16] No more queued emails, exiting
+[2020-08-04 13:42:15] Sending queued emails
+[2020-08-04 13:42:15] No more queued emails, exiting
+[2020-08-04 13:43:16] Sending queued emails
+[2020-08-04 13:43:16] No more queued emails, exiting
+[2020-08-04 13:44:15] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 13:44:15] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 13:44:15] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 13:44:15] Sending queued emails
+[2020-08-04 13:44:15] No more queued emails, exiting
+[2020-08-04 13:45:16] Sending queued emails
+[2020-08-04 13:45:16] No more queued emails, exiting
+[2020-08-04 13:46:16] Sending queued emails
+[2020-08-04 13:46:16] No more queued emails, exiting
+[2020-08-04 13:47:17] Sending queued emails
+[2020-08-04 13:47:17] No more queued emails, exiting
+[2020-08-04 13:48:15] Sending queued emails
+[2020-08-04 13:48:15] No more queued emails, exiting
+[2020-08-04 13:49:16] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 13:49:16] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 13:49:16] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 13:49:16] Sending queued emails
+[2020-08-04 13:49:16] No more queued emails, exiting
+[2020-08-04 13:50:16] Sending queued emails
+[2020-08-04 13:50:16] No more queued emails, exiting
+[2020-08-04 13:51:16] Sending queued emails
+[2020-08-04 13:51:16] No more queued emails, exiting
+[2020-08-04 13:51:58] Sending queued emails
+[2020-08-04 13:51:58] No more queued emails, exiting
+[2020-08-04 13:53:50] Sending queued emails
+[2020-08-04 13:53:50] No more queued emails, exiting
+[2020-08-04 13:54:01] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 13:54:01] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 13:54:01] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 13:54:01] Sending queued emails
+[2020-08-04 13:54:01] No more queued emails, exiting
+[2020-08-04 13:55:45] Sending queued emails
+[2020-08-04 13:55:45] No more queued emails, exiting
+[2020-08-04 13:56:02] Sending queued emails
+[2020-08-04 13:56:02] No more queued emails, exiting
+[2020-08-04 13:57:47] Sending queued emails
+[2020-08-04 13:57:47] No more queued emails, exiting
+[2020-08-04 13:58:07] Sending queued emails
+[2020-08-04 13:58:07] No more queued emails, exiting
+[2020-08-04 13:59:04] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 13:59:04] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 13:59:04] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 13:59:04] Sending queued emails
+[2020-08-04 13:59:04] No more queued emails, exiting
+[2020-08-04 14:00:03] Sending queued emails
+[2020-08-04 14:00:03] No more queued emails, exiting
+[2020-08-04 14:01:06] Sending queued emails
+[2020-08-04 14:01:06] No more queued emails, exiting
+[2020-08-04 14:02:00] Sending queued emails
+[2020-08-04 14:02:00] No more queued emails, exiting
+[2020-08-04 14:03:04] Sending queued emails
+[2020-08-04 14:03:04] No more queued emails, exiting
+[2020-08-04 14:04:09] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 14:04:09] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 14:04:09] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 14:04:09] Sending queued emails
+[2020-08-04 14:04:09] No more queued emails, exiting
+[2020-08-04 14:04:58] Sending queued emails
+[2020-08-04 14:04:58] No more queued emails, exiting
+[2020-08-04 14:06:17] Sending queued emails
+[2020-08-04 14:06:17] No more queued emails, exiting
+[2020-08-04 14:07:27] Sending queued emails
+[2020-08-04 14:07:27] No more queued emails, exiting
+[2020-08-04 14:08:15] Sending queued emails
+[2020-08-04 14:08:15] No more queued emails, exiting
+[2020-08-04 14:09:20] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 14:09:20] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 14:09:20] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 14:09:20] Sending queued emails
+[2020-08-04 14:09:20] No more queued emails, exiting
+[2020-08-04 14:10:19] Sending queued emails
+[2020-08-04 14:10:19] No more queued emails, exiting
+[2020-08-04 14:10:59] Sending queued emails
+[2020-08-04 14:10:59] No more queued emails, exiting
+[2020-08-04 14:11:57] Sending queued emails
+[2020-08-04 14:11:57] No more queued emails, exiting
+[2020-08-04 14:12:56] Sending queued emails
+[2020-08-04 14:12:56] No more queued emails, exiting
+[2020-08-04 14:14:03] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 14:14:03] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 14:14:03] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 14:14:03] Sending queued emails
+[2020-08-04 14:14:03] No more queued emails, exiting
+[2020-08-04 14:15:10] Sending queued emails
+[2020-08-04 14:15:10] No more queued emails, exiting
+[2020-08-04 14:16:03] Sending queued emails
+[2020-08-04 14:16:03] No more queued emails, exiting
+[2020-08-04 14:17:20] Sending queued emails
+[2020-08-04 14:17:20] No more queued emails, exiting
+[2020-08-04 14:18:03] Sending queued emails
+[2020-08-04 14:18:03] No more queued emails, exiting
+[2020-08-04 14:19:04] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 14:19:04] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 14:19:04] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 14:19:04] Sending queued emails
+[2020-08-04 14:19:04] No more queued emails, exiting
+[2020-08-04 14:20:02] Sending queued emails
+[2020-08-04 14:20:02] No more queued emails, exiting
+[2020-08-04 14:20:56] Sending queued emails
+[2020-08-04 14:20:56] No more queued emails, exiting
+[2020-08-04 14:21:59] Sending queued emails
+[2020-08-04 14:21:59] No more queued emails, exiting
+[2020-08-04 14:23:04] Sending queued emails
+[2020-08-04 14:23:04] No more queued emails, exiting
+[2020-08-04 14:24:54] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 14:24:54] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 14:24:54] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 14:24:54] Sending queued emails
+[2020-08-04 14:24:54] No more queued emails, exiting
+[2020-08-04 14:25:54] Sending queued emails
+[2020-08-04 14:25:54] No more queued emails, exiting
+[2020-08-04 14:26:54] Sending queued emails
+[2020-08-04 14:26:54] No more queued emails, exiting
+[2020-08-04 14:27:54] Sending queued emails
+[2020-08-04 14:27:54] No more queued emails, exiting
+[2020-08-04 14:28:54] Sending queued emails
+[2020-08-04 14:28:54] No more queued emails, exiting
+[2020-08-04 14:29:54] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 14:29:54] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 14:29:54] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 14:29:54] Sending queued emails
+[2020-08-04 14:29:54] No more queued emails, exiting
+[2020-08-04 14:30:54] Sending queued emails
+[2020-08-04 14:30:54] No more queued emails, exiting
+[2020-08-04 14:31:54] Sending queued emails
+[2020-08-04 14:31:54] No more queued emails, exiting
+[2020-08-04 14:32:54] Sending queued emails
+[2020-08-04 14:32:54] No more queued emails, exiting
+[2020-08-04 14:33:55] Sending queued emails
+[2020-08-04 14:33:55] No more queued emails, exiting
+[2020-08-04 14:34:55] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 14:34:55] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 14:34:55] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 14:34:55] Sending queued emails
+[2020-08-04 14:34:55] No more queued emails, exiting
+[2020-08-04 14:35:55] Sending queued emails
+[2020-08-04 14:35:55] No more queued emails, exiting
+[2020-08-04 14:36:31] Sending queued emails
+[2020-08-04 14:36:31] No more queued emails, exiting
+[2020-08-04 14:37:01] Sending queued emails
+[2020-08-04 14:37:01] No more queued emails, exiting
+[2020-08-04 14:38:01] Sending queued emails
+[2020-08-04 14:38:01] No more queued emails, exiting
+[2020-08-04 14:39:00] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 14:39:00] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 14:39:00] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 14:39:00] Sending queued emails
+[2020-08-04 14:39:00] No more queued emails, exiting
+[2020-08-04 14:40:54] Sending queued emails
+[2020-08-04 14:40:54] No more queued emails, exiting
+[2020-08-04 14:41:23] Sending queued emails
+[2020-08-04 14:41:23] No more queued emails, exiting
+[2020-08-04 14:42:04] Sending queued emails
+[2020-08-04 14:42:04] No more queued emails, exiting
+[2020-08-04 14:43:30] Sending queued emails
+[2020-08-04 14:43:30] No more queued emails, exiting
+[2020-08-04 14:44:54] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 14:44:54] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 14:44:54] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 14:44:54] Sending queued emails
+[2020-08-04 14:44:54] No more queued emails, exiting
+[2020-08-04 14:45:30] Sending queued emails
+[2020-08-04 14:45:30] No more queued emails, exiting
+[2020-08-04 14:46:40] Sending queued emails
+[2020-08-04 14:46:40] No more queued emails, exiting
+[2020-08-04 14:47:06] Sending queued emails
+[2020-08-04 14:47:06] No more queued emails, exiting
+[2020-08-04 14:48:01] Sending queued emails
+[2020-08-04 14:48:01] No more queued emails, exiting
+[2020-08-04 14:54:36] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 14:54:36] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 14:54:36] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 14:54:36] Sending queued emails
+[2020-08-04 14:54:36] No more queued emails, exiting
+[2020-08-04 14:59:07] Sending queued emails
+[2020-08-04 14:59:07] No more queued emails, exiting
+[2020-08-04 14:59:07] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 14:59:07] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 14:59:07] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 15:00:19] Sending queued emails
+[2020-08-04 15:00:19] No more queued emails, exiting
+[2020-08-04 15:01:19] Sending queued emails
+[2020-08-04 15:01:19] No more queued emails, exiting
+[2020-08-04 15:02:18] Sending queued emails
+[2020-08-04 15:02:18] No more queued emails, exiting
+[2020-08-04 15:04:11] Sending queued emails
+[2020-08-04 15:04:11] No more queued emails, exiting
+[2020-08-04 15:04:11] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 15:04:11] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 15:04:11] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 15:05:11] Sending queued emails
+[2020-08-04 15:05:11] No more queued emails, exiting
+[2020-08-04 15:06:11] Sending queued emails
+[2020-08-04 15:06:11] No more queued emails, exiting
+[2020-08-04 15:07:11] Sending queued emails
+[2020-08-04 15:07:11] No more queued emails, exiting
+[2020-08-04 15:09:11] Sending queued emails
+[2020-08-04 15:09:11] No more queued emails, exiting
+[2020-08-04 15:09:11] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 15:09:11] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 15:09:11] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 15:11:11] Sending queued emails
+[2020-08-04 15:11:11] No more queued emails, exiting
+[2020-08-04 15:13:11] Sending queued emails
+[2020-08-04 15:13:11] No more queued emails, exiting
+[2020-08-04 15:15:11] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 15:15:11] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 15:15:11] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 15:15:11] Sending queued emails
+[2020-08-04 15:15:11] No more queued emails, exiting
+[2020-08-04 15:17:11] Sending queued emails
+[2020-08-04 15:17:11] No more queued emails, exiting
+[2020-08-04 15:25:33] Sending queued emails
+[2020-08-04 15:25:33] No more queued emails, exiting
+[2020-08-04 15:25:33] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 15:25:33] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 15:25:33] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 15:26:32] Sending queued emails
+[2020-08-04 15:26:32] No more queued emails, exiting
+[2020-08-04 15:27:32] Sending queued emails
+[2020-08-04 15:27:32] No more queued emails, exiting
+[2020-08-04 15:28:39] Sending queued emails
+[2020-08-04 15:28:39] No more queued emails, exiting
+[2020-08-04 15:30:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 15:30:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 15:30:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 15:30:38] Sending queued emails
+[2020-08-04 15:30:38] No more queued emails, exiting
+[2020-08-04 15:31:38] Sending queued emails
+[2020-08-04 15:31:38] No more queued emails, exiting
+[2020-08-04 15:32:38] Sending queued emails
+[2020-08-04 15:32:38] No more queued emails, exiting
+[2020-08-04 15:33:38] Sending queued emails
+[2020-08-04 15:33:38] No more queued emails, exiting
+[2020-08-04 15:34:22] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 15:34:22] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 15:34:22] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 15:34:22] Sending queued emails
+[2020-08-04 15:34:22] No more queued emails, exiting
+[2020-08-04 15:35:38] Sending queued emails
+[2020-08-04 15:35:38] No more queued emails, exiting
+[2020-08-04 15:36:38] Sending queued emails
+[2020-08-04 15:36:38] No more queued emails, exiting
+[2020-08-04 15:37:38] Sending queued emails
+[2020-08-04 15:37:38] No more queued emails, exiting
+[2020-08-04 15:38:38] Sending queued emails
+[2020-08-04 15:38:38] No more queued emails, exiting
+[2020-08-04 15:39:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 15:39:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 15:39:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 15:39:38] Sending queued emails
+[2020-08-04 15:39:38] No more queued emails, exiting
+[2020-08-04 15:40:38] Sending queued emails
+[2020-08-04 15:40:38] No more queued emails, exiting
+[2020-08-04 15:41:38] Sending queued emails
+[2020-08-04 15:41:38] No more queued emails, exiting
+[2020-08-04 15:43:38] Sending queued emails
+[2020-08-04 15:43:38] No more queued emails, exiting
+[2020-08-04 15:44:38] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 15:44:38] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 15:44:38] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 15:44:38] Sending queued emails
+[2020-08-04 15:44:38] No more queued emails, exiting
+[2020-08-04 15:45:38] Sending queued emails
+[2020-08-04 15:45:38] No more queued emails, exiting
+[2020-08-04 15:46:39] Sending queued emails
+[2020-08-04 15:46:39] No more queued emails, exiting
+[2020-08-04 15:48:40] Sending queued emails
+[2020-08-04 15:48:40] No more queued emails, exiting
+[2020-08-04 15:49:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 15:49:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 15:49:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 15:49:39] Sending queued emails
+[2020-08-04 15:49:39] No more queued emails, exiting
+[2020-08-04 15:50:39] Sending queued emails
+[2020-08-04 15:50:39] No more queued emails, exiting
+[2020-08-04 15:51:40] Sending queued emails
+[2020-08-04 15:51:40] No more queued emails, exiting
+[2020-08-04 15:52:51] Sending queued emails
+[2020-08-04 15:52:51] No more queued emails, exiting
+[2020-08-04 15:52:58] Sending queued emails
+[2020-08-04 15:52:58] No more queued emails, exiting
+[2020-08-04 15:54:00] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 15:54:00] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 15:54:00] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 15:54:00] Sending queued emails
+[2020-08-04 15:54:00] No more queued emails, exiting
+[2020-08-04 15:55:03] Sending queued emails
+[2020-08-04 15:55:03] No more queued emails, exiting
+[2020-08-04 15:55:33] Registering 'yheison Roa' (desarrollo@mycodedmind.com) for in webinar 1361 (day: rightnow, time: rightnow, date/time: )
+[2020-08-04 15:55:33] Re-subscribing desarrollo@mycodedmind.com
+[2020-08-04 15:55:36] Firing attended flags for 4
+[2020-08-04 15:56:04] Sending queued emails
+[2020-08-04 15:56:04] No more queued emails, exiting
+[2020-08-04 15:57:04] Sending queued emails
+[2020-08-04 15:57:04] No more queued emails, exiting
+[2020-08-04 15:58:04] Sending queued emails
+[2020-08-04 15:58:04] No more queued emails, exiting
+[2020-08-04 15:59:04] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 15:59:04] Found 1 attendees
+[2020-08-04 15:59:04] Sending email to desarrollo@mycodedmind.com for webinar 1361
+[2020-08-04 15:59:04] Sending email to desarrollo@mycodedmind.com
+[2020-08-04 15:59:04] Sending webinar email (desarrollo@mycodedmind.com, We are starting the webinar!)
+[2020-08-04 15:59:04] Email successfully sent (according to wp_mail)
+[2020-08-04 15:59:04] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 15:59:04] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 15:59:04] Sending queued emails
+[2020-08-04 15:59:04] No more queued emails, exiting
+[2020-08-04 16:00:04] Sending queued emails
+[2020-08-04 16:00:04] No more queued emails, exiting
+[2020-08-04 16:01:03] Sending queued emails
+[2020-08-04 16:01:03] No more queued emails, exiting
+[2020-08-04 16:02:04] Sending queued emails
+[2020-08-04 16:02:04] No more queued emails, exiting
+[2020-08-04 16:03:04] Sending queued emails
+[2020-08-04 16:03:04] No more queued emails, exiting
+[2020-08-04 16:04:04] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 16:04:04] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 16:04:04] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 16:04:04] Sending queued emails
+[2020-08-04 16:04:04] No more queued emails, exiting
+[2020-08-04 16:05:03] Sending queued emails
+[2020-08-04 16:05:03] No more queued emails, exiting
+[2020-08-04 16:06:04] Sending queued emails
+[2020-08-04 16:06:04] No more queued emails, exiting
+[2020-08-04 16:07:04] Sending queued emails
+[2020-08-04 16:07:04] No more queued emails, exiting
+[2020-08-04 16:08:04] Sending queued emails
+[2020-08-04 16:08:04] No more queued emails, exiting
+[2020-08-04 16:09:04] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 16:09:04] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 16:09:04] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 16:09:04] Sending queued emails
+[2020-08-04 16:09:04] No more queued emails, exiting
+[2020-08-04 16:10:04] Sending queued emails
+[2020-08-04 16:10:04] No more queued emails, exiting
+[2020-08-04 16:11:04] Sending queued emails
+[2020-08-04 16:11:04] No more queued emails, exiting
+[2020-08-04 16:12:04] Sending queued emails
+[2020-08-04 16:12:04] No more queued emails, exiting
+[2020-08-04 16:13:04] Sending queued emails
+[2020-08-04 16:13:04] No more queued emails, exiting
+[2020-08-04 16:14:04] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 16:14:04] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 16:14:04] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 16:14:04] Sending queued emails
+[2020-08-04 16:14:04] No more queued emails, exiting
+[2020-08-04 16:15:04] Sending queued emails
+[2020-08-04 16:15:04] No more queued emails, exiting
+[2020-08-04 16:16:04] Sending queued emails
+[2020-08-04 16:16:04] No more queued emails, exiting
+[2020-08-04 16:17:04] Sending queued emails
+[2020-08-04 16:17:04] No more queued emails, exiting
+[2020-08-04 16:18:04] Sending queued emails
+[2020-08-04 16:18:04] No more queued emails, exiting
+[2020-08-04 16:19:09] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 16:19:09] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 16:19:09] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 16:19:09] Sending queued emails
+[2020-08-04 16:19:09] No more queued emails, exiting
+[2020-08-04 16:20:09] Sending queued emails
+[2020-08-04 16:20:09] No more queued emails, exiting
+[2020-08-04 16:21:09] Sending queued emails
+[2020-08-04 16:21:09] No more queued emails, exiting
+[2020-08-04 16:22:09] Sending queued emails
+[2020-08-04 16:22:09] No more queued emails, exiting
+[2020-08-04 16:23:09] Sending queued emails
+[2020-08-04 16:23:09] No more queued emails, exiting
+[2020-08-04 16:24:09] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 16:24:09] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 16:24:09] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 16:24:09] Sending queued emails
+[2020-08-04 16:24:09] No more queued emails, exiting
+[2020-08-04 16:25:09] Sending queued emails
+[2020-08-04 16:25:09] No more queued emails, exiting
+[2020-08-04 16:26:09] Sending queued emails
+[2020-08-04 16:26:09] No more queued emails, exiting
+[2020-08-04 16:27:09] Sending queued emails
+[2020-08-04 16:27:09] No more queued emails, exiting
+[2020-08-04 16:28:09] Sending queued emails
+[2020-08-04 16:28:09] No more queued emails, exiting
+[2020-08-04 16:29:09] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 16:29:09] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 16:29:09] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 16:29:09] Sending queued emails
+[2020-08-04 16:29:09] No more queued emails, exiting
+[2020-08-04 16:30:09] Sending queued emails
+[2020-08-04 16:30:09] No more queued emails, exiting
+[2020-08-04 16:31:09] Sending queued emails
+[2020-08-04 16:31:09] No more queued emails, exiting
+[2020-08-04 16:32:09] Sending queued emails
+[2020-08-04 16:32:09] No more queued emails, exiting
+[2020-08-04 16:33:09] Sending queued emails
+[2020-08-04 16:33:09] No more queued emails, exiting
+[2020-08-04 16:34:09] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 16:34:09] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 16:34:09] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 16:34:09] Sending queued emails
+[2020-08-04 16:34:09] No more queued emails, exiting
+[2020-08-04 16:35:09] Sending queued emails
+[2020-08-04 16:35:09] No more queued emails, exiting
+[2020-08-04 16:35:56] Sending queued emails
+[2020-08-04 16:35:56] No more queued emails, exiting
+[2020-08-04 16:38:30] Sending queued emails
+[2020-08-04 16:38:30] No more queued emails, exiting
+[2020-08-04 16:40:30] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 16:40:30] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 16:40:30] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 16:40:30] Sending queued emails
+[2020-08-04 16:40:30] No more queued emails, exiting
+[2020-08-04 16:42:30] Sending queued emails
+[2020-08-04 16:42:30] No more queued emails, exiting
+[2020-08-04 16:44:30] Sending queued emails
+[2020-08-04 16:44:30] No more queued emails, exiting
+[2020-08-04 16:44:30] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 16:44:30] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 16:44:30] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 16:46:30] Sending queued emails
+[2020-08-04 16:46:30] No more queued emails, exiting
+[2020-08-04 16:48:30] Sending queued emails
+[2020-08-04 16:48:30] No more queued emails, exiting
+[2020-08-04 16:50:30] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 16:50:30] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 16:50:30] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 16:50:30] Sending queued emails
+[2020-08-04 16:50:30] No more queued emails, exiting
+[2020-08-04 16:52:30] Sending queued emails
+[2020-08-04 16:52:30] No more queued emails, exiting
+[2020-08-04 16:54:30] Sending queued emails
+[2020-08-04 16:54:30] No more queued emails, exiting
+[2020-08-04 16:54:30] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 16:54:30] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 16:54:30] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 16:56:30] Sending queued emails
+[2020-08-04 16:56:30] No more queued emails, exiting
+[2020-08-04 16:56:57] Sending queued emails
+[2020-08-04 16:56:57] No more queued emails, exiting
+[2020-08-04 16:59:36] Sending queued emails
+[2020-08-04 16:59:36] No more queued emails, exiting
+[2020-08-04 16:59:36] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 16:59:36] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 16:59:36] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 17:00:31] Sending queued emails
+[2020-08-04 17:00:31] No more queued emails, exiting
+[2020-08-04 17:01:01] Sending queued emails
+[2020-08-04 17:01:01] No more queued emails, exiting
+[2020-08-04 17:03:02] Sending queued emails
+[2020-08-04 17:03:02] No more queued emails, exiting
+[2020-08-04 17:04:18] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 17:04:18] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 17:04:18] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 17:04:18] Sending queued emails
+[2020-08-04 17:04:18] No more queued emails, exiting
+[2020-08-04 17:05:56] Sending queued emails
+[2020-08-04 17:05:56] No more queued emails, exiting
+[2020-08-04 17:07:57] Sending queued emails
+[2020-08-04 17:07:57] No more queued emails, exiting
+[2020-08-04 17:10:04] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 17:10:04] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 17:10:04] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 17:10:04] Sending queued emails
+[2020-08-04 17:10:04] No more queued emails, exiting
+[2020-08-04 17:12:07] Sending queued emails
+[2020-08-04 17:12:07] No more queued emails, exiting
+[2020-08-04 17:14:08] Sending queued emails
+[2020-08-04 17:14:08] No more queued emails, exiting
+[2020-08-04 17:14:08] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 17:14:08] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 17:14:08] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 17:18:20] Sending queued emails
+[2020-08-04 17:18:20] No more queued emails, exiting
+[2020-08-04 17:20:37] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 17:20:37] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 17:20:37] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 17:20:37] Sending queued emails
+[2020-08-04 17:20:37] No more queued emails, exiting
+[2020-08-04 17:25:39] Sending queued emails
+[2020-08-04 17:25:39] No more queued emails, exiting
+[2020-08-04 17:25:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 17:25:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 17:25:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 17:36:35] Sending queued emails
+[2020-08-04 17:36:35] No more queued emails, exiting
+[2020-08-04 17:36:35] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 17:36:35] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 17:36:35] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 17:38:38] Sending queued emails
+[2020-08-04 17:38:38] No more queued emails, exiting
+[2020-08-04 17:40:43] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 17:40:43] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 17:40:43] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 17:40:43] Sending queued emails
+[2020-08-04 17:40:43] No more queued emails, exiting
+[2020-08-04 17:42:49] Sending queued emails
+[2020-08-04 17:42:49] No more queued emails, exiting
+[2020-08-04 17:44:49] Sending queued emails
+[2020-08-04 17:44:49] No more queued emails, exiting
+[2020-08-04 17:44:49] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 17:44:49] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 17:44:49] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 17:46:49] Sending queued emails
+[2020-08-04 17:46:49] No more queued emails, exiting
+[2020-08-04 18:05:07] Sending queued emails
+[2020-08-04 18:05:07] No more queued emails, exiting
+[2020-08-04 18:05:07] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 18:05:07] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 18:05:07] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 18:07:19] Sending queued emails
+[2020-08-04 18:07:19] No more queued emails, exiting
+[2020-08-04 18:09:20] Sending queued emails
+[2020-08-04 18:09:20] No more queued emails, exiting
+[2020-08-04 18:09:20] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 18:09:20] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 18:09:20] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 18:11:20] Sending queued emails
+[2020-08-04 18:11:20] No more queued emails, exiting
+[2020-08-04 18:13:20] Sending queued emails
+[2020-08-04 18:13:20] No more queued emails, exiting
+[2020-08-04 18:15:22] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 18:15:22] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 18:15:22] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 18:15:22] Sending queued emails
+[2020-08-04 18:15:22] No more queued emails, exiting
+[2020-08-04 18:17:22] Sending queued emails
+[2020-08-04 18:17:22] No more queued emails, exiting
+[2020-08-04 18:19:22] Sending queued emails
+[2020-08-04 18:19:22] No more queued emails, exiting
+[2020-08-04 18:19:22] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 18:19:22] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 18:19:22] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 18:21:23] Sending queued emails
+[2020-08-04 18:21:23] No more queued emails, exiting
+[2020-08-04 18:23:22] Sending queued emails
+[2020-08-04 18:23:22] No more queued emails, exiting
+[2020-08-04 18:25:24] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 18:25:24] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 18:25:24] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 18:25:24] Sending queued emails
+[2020-08-04 18:25:24] No more queued emails, exiting
+[2020-08-04 18:27:25] Sending queued emails
+[2020-08-04 18:27:25] No more queued emails, exiting
+[2020-08-04 18:29:26] Sending queued emails
+[2020-08-04 18:29:26] No more queued emails, exiting
+[2020-08-04 18:29:26] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 18:29:26] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 18:29:26] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 18:31:25] Sending queued emails
+[2020-08-04 18:31:25] No more queued emails, exiting
+[2020-08-04 18:33:26] Sending queued emails
+[2020-08-04 18:33:26] No more queued emails, exiting
+[2020-08-04 18:35:27] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 18:35:27] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 18:35:27] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 18:35:27] Sending queued emails
+[2020-08-04 18:35:27] No more queued emails, exiting
+[2020-08-04 18:37:27] Sending queued emails
+[2020-08-04 18:37:27] No more queued emails, exiting
+[2020-08-04 18:39:28] Sending queued emails
+[2020-08-04 18:39:28] No more queued emails, exiting
+[2020-08-04 18:39:28] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 18:39:28] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 18:39:28] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 18:41:27] Sending queued emails
+[2020-08-04 18:41:27] No more queued emails, exiting
+[2020-08-04 18:43:28] Sending queued emails
+[2020-08-04 18:43:28] No more queued emails, exiting
+[2020-08-04 18:45:29] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 18:45:29] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 18:45:29] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 18:45:29] Sending queued emails
+[2020-08-04 18:45:29] No more queued emails, exiting
+[2020-08-04 18:47:30] Sending queued emails
+[2020-08-04 18:47:30] No more queued emails, exiting
+[2020-08-04 18:49:31] Sending queued emails
+[2020-08-04 18:49:31] No more queued emails, exiting
+[2020-08-04 18:49:31] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 18:49:31] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 18:49:31] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 18:51:30] Sending queued emails
+[2020-08-04 18:51:30] No more queued emails, exiting
+[2020-08-04 18:53:30] Sending queued emails
+[2020-08-04 18:53:30] No more queued emails, exiting
+[2020-08-04 18:55:31] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 18:55:31] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 18:55:31] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 18:55:31] Sending queued emails
+[2020-08-04 18:55:31] No more queued emails, exiting
+[2020-08-04 18:57:32] Sending queued emails
+[2020-08-04 18:57:32] No more queued emails, exiting
+[2020-08-04 18:59:33] Sending queued emails
+[2020-08-04 18:59:33] No more queued emails, exiting
+[2020-08-04 18:59:33] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 18:59:33] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 18:59:33] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 19:01:33] Sending queued emails
+[2020-08-04 19:01:33] No more queued emails, exiting
+[2020-08-04 19:03:33] Sending queued emails
+[2020-08-04 19:03:33] No more queued emails, exiting
+[2020-08-04 19:05:35] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 19:05:35] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 19:05:35] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 19:05:35] Sending queued emails
+[2020-08-04 19:05:35] No more queued emails, exiting
+[2020-08-04 19:07:35] Sending queued emails
+[2020-08-04 19:07:35] No more queued emails, exiting
+[2020-08-04 19:09:36] Sending queued emails
+[2020-08-04 19:09:36] No more queued emails, exiting
+[2020-08-04 19:09:36] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 19:09:36] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 19:09:36] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 19:11:37] Sending queued emails
+[2020-08-04 19:11:37] No more queued emails, exiting
+[2020-08-04 19:13:38] Sending queued emails
+[2020-08-04 19:13:38] No more queued emails, exiting
+[2020-08-04 19:15:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 19:15:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 19:15:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 19:15:39] Sending queued emails
+[2020-08-04 19:15:39] No more queued emails, exiting
+[2020-08-04 19:17:40] Sending queued emails
+[2020-08-04 19:17:40] No more queued emails, exiting
+[2020-08-04 19:19:40] Sending queued emails
+[2020-08-04 19:19:40] No more queued emails, exiting
+[2020-08-04 19:19:40] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 19:19:40] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 19:19:40] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 19:21:40] Sending queued emails
+[2020-08-04 19:21:40] No more queued emails, exiting
+[2020-08-04 19:23:41] Sending queued emails
+[2020-08-04 19:23:41] No more queued emails, exiting
+[2020-08-04 19:25:41] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 19:25:41] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 19:25:41] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 19:25:41] Sending queued emails
+[2020-08-04 19:25:41] No more queued emails, exiting
+[2020-08-04 19:27:42] Sending queued emails
+[2020-08-04 19:27:42] No more queued emails, exiting
+[2020-08-04 19:29:42] Sending queued emails
+[2020-08-04 19:29:42] No more queued emails, exiting
+[2020-08-04 19:29:42] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 19:29:42] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 19:29:42] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 19:31:42] Sending queued emails
+[2020-08-04 19:31:42] No more queued emails, exiting
+[2020-08-04 19:33:43] Sending queued emails
+[2020-08-04 19:33:43] No more queued emails, exiting
+[2020-08-04 19:35:42] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 19:35:42] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 19:35:42] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 19:35:42] Sending queued emails
+[2020-08-04 19:35:42] No more queued emails, exiting
+[2020-08-04 19:37:43] Sending queued emails
+[2020-08-04 19:37:43] No more queued emails, exiting
+[2020-08-04 19:39:44] Sending queued emails
+[2020-08-04 19:39:44] No more queued emails, exiting
+[2020-08-04 19:39:44] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 19:39:44] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 19:39:44] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 19:41:44] Sending queued emails
+[2020-08-04 19:41:44] No more queued emails, exiting
+[2020-08-04 19:43:45] Sending queued emails
+[2020-08-04 19:43:45] No more queued emails, exiting
+[2020-08-04 19:45:46] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 19:45:46] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 19:45:46] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 19:45:46] Sending queued emails
+[2020-08-04 19:45:46] No more queued emails, exiting
+[2020-08-04 19:47:46] Sending queued emails
+[2020-08-04 19:47:46] No more queued emails, exiting
+[2020-08-04 19:49:46] Sending queued emails
+[2020-08-04 19:49:46] No more queued emails, exiting
+[2020-08-04 19:49:46] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 19:49:46] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 19:49:46] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 19:51:47] Sending queued emails
+[2020-08-04 19:51:47] No more queued emails, exiting
+[2020-08-04 19:53:47] Sending queued emails
+[2020-08-04 19:53:47] No more queued emails, exiting
+[2020-08-04 19:55:48] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 19:55:48] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 19:55:48] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 19:55:48] Sending queued emails
+[2020-08-04 19:55:48] No more queued emails, exiting
+[2020-08-04 19:57:48] Sending queued emails
+[2020-08-04 19:57:48] No more queued emails, exiting
+[2020-08-04 19:59:49] Sending queued emails
+[2020-08-04 19:59:49] No more queued emails, exiting
+[2020-08-04 19:59:49] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-04 19:59:49] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-04 19:59:49] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-04 20:01:50] Sending queued emails
+[2020-08-04 20:01:50] No more queued emails, exiting
+[2020-08-04 20:02:01] Sending queued emails
+[2020-08-04 20:02:01] No more queued emails, exiting
+[2020-08-24 15:23:04] Sending queued emails
+[2020-08-24 15:23:04] No more queued emails, exiting
+[2020-08-24 15:23:04] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-24 15:23:04] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-24 15:23:04] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-24 16:06:58] Sending queued emails
+[2020-08-24 16:06:58] No more queued emails, exiting
+[2020-08-24 16:06:58] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-24 16:06:58] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-24 16:06:58] Checking emails for Webinar de Prueba (1361) one day before
+[2020-08-31 14:28:21] Sending queued emails
+[2020-08-31 14:28:21] No more queued emails, exiting
+[2020-08-31 14:28:21] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-08-31 14:28:21] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-08-31 14:28:21] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 14:15:33] Sending queued emails
+[2020-09-01 14:15:33] No more queued emails, exiting
+[2020-09-01 14:15:33] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 14:15:33] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 14:15:33] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 14:26:33] Sending queued emails
+[2020-09-01 14:26:33] No more queued emails, exiting
+[2020-09-01 14:26:33] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 14:26:33] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 14:26:33] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 14:37:39] Sending queued emails
+[2020-09-01 14:37:39] No more queued emails, exiting
+[2020-09-01 14:37:39] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 14:37:39] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 14:37:39] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 14:38:01] Sending queued emails
+[2020-09-01 14:38:01] No more queued emails, exiting
+[2020-09-01 14:38:59] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 14:38:59] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 14:38:59] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 14:38:59] Sending queued emails
+[2020-09-01 14:38:59] No more queued emails, exiting
+[2020-09-01 14:40:00] Sending queued emails
+[2020-09-01 14:40:00] No more queued emails, exiting
+[2020-09-01 14:41:39] Sending queued emails
+[2020-09-01 14:41:39] No more queued emails, exiting
+[2020-09-01 14:42:00] Sending queued emails
+[2020-09-01 14:42:00] No more queued emails, exiting
+[2020-09-01 14:43:39] Sending queued emails
+[2020-09-01 14:43:39] No more queued emails, exiting
+[2020-09-01 14:44:00] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 14:44:00] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 14:44:00] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 14:44:00] Sending queued emails
+[2020-09-01 14:44:00] No more queued emails, exiting
+[2020-09-01 14:44:59] Sending queued emails
+[2020-09-01 14:44:59] No more queued emails, exiting
+[2020-09-01 14:46:00] Sending queued emails
+[2020-09-01 14:46:00] No more queued emails, exiting
+[2020-09-01 14:47:53] Sending queued emails
+[2020-09-01 14:47:53] No more queued emails, exiting
+[2020-09-01 14:47:57] Sending queued emails
+[2020-09-01 14:47:57] No more queued emails, exiting
+[2020-09-01 14:48:57] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 14:48:57] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 14:48:57] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 14:48:57] Sending queued emails
+[2020-09-01 14:48:57] No more queued emails, exiting
+[2020-09-01 14:49:57] Sending queued emails
+[2020-09-01 14:49:57] No more queued emails, exiting
+[2020-09-01 14:51:05] Sending queued emails
+[2020-09-01 14:51:05] No more queued emails, exiting
+[2020-09-01 14:52:35] Sending queued emails
+[2020-09-01 14:52:35] No more queued emails, exiting
+[2020-09-01 14:54:13] Sending queued emails
+[2020-09-01 14:54:13] No more queued emails, exiting
+[2020-09-01 14:54:13] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 14:54:13] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 14:54:13] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 14:55:20] Sending queued emails
+[2020-09-01 14:55:20] No more queued emails, exiting
+[2020-09-01 14:57:20] Sending queued emails
+[2020-09-01 14:57:20] No more queued emails, exiting
+[2020-09-01 14:59:20] Sending queued emails
+[2020-09-01 14:59:20] No more queued emails, exiting
+[2020-09-01 14:59:20] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 14:59:20] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 14:59:20] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 15:01:21] Sending queued emails
+[2020-09-01 15:01:21] No more queued emails, exiting
+[2020-09-01 15:03:20] Sending queued emails
+[2020-09-01 15:03:20] No more queued emails, exiting
+[2020-09-01 15:16:59] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 15:16:59] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 15:16:59] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 15:16:59] Sending queued emails
+[2020-09-01 15:16:59] No more queued emails, exiting
+[2020-09-01 15:18:59] Sending queued emails
+[2020-09-01 15:18:59] No more queued emails, exiting
+[2020-09-01 15:18:59] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 15:18:59] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 15:18:59] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 15:20:59] Sending queued emails
+[2020-09-01 15:20:59] No more queued emails, exiting
+[2020-09-01 15:22:59] Sending queued emails
+[2020-09-01 15:22:59] No more queued emails, exiting
+[2020-09-01 15:24:59] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 15:24:59] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 15:24:59] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 15:24:59] Sending queued emails
+[2020-09-01 15:24:59] No more queued emails, exiting
+[2020-09-01 15:26:59] Sending queued emails
+[2020-09-01 15:26:59] No more queued emails, exiting
+[2020-09-01 15:53:24] Sending queued emails
+[2020-09-01 15:53:24] No more queued emails, exiting
+[2020-09-01 15:53:24] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 15:53:24] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 15:53:24] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 15:53:57] Sending queued emails
+[2020-09-01 15:53:57] No more queued emails, exiting
+[2020-09-01 15:53:57] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 15:53:57] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 15:53:57] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 15:55:00] Sending queued emails
+[2020-09-01 15:55:00] No more queued emails, exiting
+[2020-09-01 15:55:57] Sending queued emails
+[2020-09-01 15:55:57] No more queued emails, exiting
+[2020-09-01 15:57:00] Sending queued emails
+[2020-09-01 15:57:00] No more queued emails, exiting
+[2020-09-01 15:57:56] Sending queued emails
+[2020-09-01 15:57:56] No more queued emails, exiting
+[2020-09-01 15:58:59] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 15:58:59] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 15:58:59] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 15:58:59] Sending queued emails
+[2020-09-01 15:58:59] No more queued emails, exiting
+[2020-09-01 15:59:58] Sending queued emails
+[2020-09-01 15:59:58] No more queued emails, exiting
+[2020-09-01 16:01:13] Sending queued emails
+[2020-09-01 16:01:13] No more queued emails, exiting
+[2020-09-01 16:02:14] Sending queued emails
+[2020-09-01 16:02:14] No more queued emails, exiting
+[2020-09-01 16:03:31] Sending queued emails
+[2020-09-01 16:03:31] No more queued emails, exiting
+[2020-09-01 16:04:14] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 16:04:14] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 16:04:14] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 16:04:14] Sending queued emails
+[2020-09-01 16:04:14] No more queued emails, exiting
+[2020-09-01 16:04:56] Sending queued emails
+[2020-09-01 16:04:56] No more queued emails, exiting
+[2020-09-01 16:06:01] Sending queued emails
+[2020-09-01 16:06:01] No more queued emails, exiting
+[2020-09-01 16:07:31] Sending queued emails
+[2020-09-01 16:07:31] No more queued emails, exiting
+[2020-09-01 16:08:14] Sending queued emails
+[2020-09-01 16:08:14] No more queued emails, exiting
+[2020-09-01 16:09:33] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 16:09:33] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 16:09:33] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 16:09:33] Sending queued emails
+[2020-09-01 16:09:33] No more queued emails, exiting
+[2020-09-01 16:10:02] Sending queued emails
+[2020-09-01 16:10:02] No more queued emails, exiting
+[2020-09-01 16:12:03] Sending queued emails
+[2020-09-01 16:12:03] No more queued emails, exiting
+[2020-09-01 16:14:03] Sending queued emails
+[2020-09-01 16:14:03] No more queued emails, exiting
+[2020-09-01 16:14:03] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 16:14:03] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 16:14:03] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 16:14:57] Sending queued emails
+[2020-09-01 16:14:57] No more queued emails, exiting
+[2020-09-01 16:16:05] Sending queued emails
+[2020-09-01 16:16:05] No more queued emails, exiting
+[2020-09-01 16:18:06] Sending queued emails
+[2020-09-01 16:18:06] No more queued emails, exiting
+[2020-09-01 16:20:16] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 16:20:16] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 16:20:16] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 16:20:16] Sending queued emails
+[2020-09-01 16:20:16] No more queued emails, exiting
+[2020-09-01 16:22:16] Sending queued emails
+[2020-09-01 16:22:16] No more queued emails, exiting
+[2020-09-01 16:24:16] Sending queued emails
+[2020-09-01 16:24:16] No more queued emails, exiting
+[2020-09-01 16:24:16] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 16:24:16] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 16:24:16] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 16:25:36] Sending queued emails
+[2020-09-01 16:25:36] No more queued emails, exiting
+[2020-09-01 16:26:15] Sending queued emails
+[2020-09-01 16:26:15] No more queued emails, exiting
+[2020-09-01 16:28:16] Sending queued emails
+[2020-09-01 16:28:16] No more queued emails, exiting
+[2020-09-01 16:30:17] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 16:30:17] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 16:30:17] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 16:30:17] Sending queued emails
+[2020-09-01 16:30:17] No more queued emails, exiting
+[2020-09-01 16:32:17] Sending queued emails
+[2020-09-01 16:32:17] No more queued emails, exiting
+[2020-09-01 16:34:17] Sending queued emails
+[2020-09-01 16:34:17] No more queued emails, exiting
+[2020-09-01 16:34:17] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 16:34:17] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 16:34:17] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 16:36:17] Sending queued emails
+[2020-09-01 16:36:17] No more queued emails, exiting
+[2020-09-01 16:38:17] Sending queued emails
+[2020-09-01 16:38:17] No more queued emails, exiting
+[2020-09-01 16:40:18] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 16:40:18] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 16:40:18] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 16:40:18] Sending queued emails
+[2020-09-01 16:40:18] No more queued emails, exiting
+[2020-09-01 16:42:18] Sending queued emails
+[2020-09-01 16:42:18] No more queued emails, exiting
+[2020-09-01 16:44:18] Sending queued emails
+[2020-09-01 16:44:18] No more queued emails, exiting
+[2020-09-01 16:44:18] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 16:44:18] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 16:44:18] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 16:46:19] Sending queued emails
+[2020-09-01 16:46:19] No more queued emails, exiting
+[2020-09-01 16:48:19] Sending queued emails
+[2020-09-01 16:48:19] No more queued emails, exiting
+[2020-09-01 16:50:19] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 16:50:19] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 16:50:19] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 16:50:19] Sending queued emails
+[2020-09-01 16:50:19] No more queued emails, exiting
+[2020-09-01 16:52:19] Sending queued emails
+[2020-09-01 16:52:19] No more queued emails, exiting
+[2020-09-01 16:54:20] Sending queued emails
+[2020-09-01 16:54:20] No more queued emails, exiting
+[2020-09-01 16:54:20] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 16:54:20] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 16:54:20] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 16:56:20] Sending queued emails
+[2020-09-01 16:56:20] No more queued emails, exiting
+[2020-09-01 16:58:20] Sending queued emails
+[2020-09-01 16:58:20] No more queued emails, exiting
+[2020-09-01 17:00:19] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 17:00:19] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 17:00:19] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 17:00:19] Sending queued emails
+[2020-09-01 17:00:19] No more queued emails, exiting
+[2020-09-01 17:02:20] Sending queued emails
+[2020-09-01 17:02:20] No more queued emails, exiting
+[2020-09-01 17:04:19] Sending queued emails
+[2020-09-01 17:04:19] No more queued emails, exiting
+[2020-09-01 17:04:19] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 17:04:19] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 17:04:19] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 17:06:21] Sending queued emails
+[2020-09-01 17:06:21] No more queued emails, exiting
+[2020-09-01 17:08:20] Sending queued emails
+[2020-09-01 17:08:20] No more queued emails, exiting
+[2020-09-01 17:10:21] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 17:10:21] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 17:10:21] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 17:10:21] Sending queued emails
+[2020-09-01 17:10:21] No more queued emails, exiting
+[2020-09-01 17:12:22] Sending queued emails
+[2020-09-01 17:12:22] No more queued emails, exiting
+[2020-09-01 17:14:22] Sending queued emails
+[2020-09-01 17:14:22] No more queued emails, exiting
+[2020-09-01 17:14:22] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 17:14:22] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 17:14:22] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 17:15:35] Sending queued emails
+[2020-09-01 17:15:35] No more queued emails, exiting
+[2020-09-01 17:16:22] Sending queued emails
+[2020-09-01 17:16:22] No more queued emails, exiting
+[2020-09-01 17:17:36] Sending queued emails
+[2020-09-01 17:17:36] No more queued emails, exiting
+[2020-09-01 17:18:22] Sending queued emails
+[2020-09-01 17:18:22] No more queued emails, exiting
+[2020-09-01 17:19:37] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 17:19:37] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 17:19:37] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 17:19:37] Sending queued emails
+[2020-09-01 17:19:37] No more queued emails, exiting
+[2020-09-01 17:20:23] Sending queued emails
+[2020-09-01 17:20:23] No more queued emails, exiting
+[2020-09-01 17:21:39] Sending queued emails
+[2020-09-01 17:21:39] No more queued emails, exiting
+[2020-09-01 17:22:23] Sending queued emails
+[2020-09-01 17:22:23] No more queued emails, exiting
+[2020-09-01 17:23:39] Sending queued emails
+[2020-09-01 17:23:39] No more queued emails, exiting
+[2020-09-01 17:24:23] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 17:24:23] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 17:24:23] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 17:24:23] Sending queued emails
+[2020-09-01 17:24:23] No more queued emails, exiting
+[2020-09-01 17:26:25] Sending queued emails
+[2020-09-01 17:26:25] No more queued emails, exiting
+[2020-09-01 17:28:25] Sending queued emails
+[2020-09-01 17:28:25] No more queued emails, exiting
+[2020-09-01 17:29:41] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 17:29:41] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 17:29:41] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 17:29:41] Sending queued emails
+[2020-09-01 17:29:41] No more queued emails, exiting
+[2020-09-01 20:46:05] Sending queued emails
+[2020-09-01 20:46:05] No more queued emails, exiting
+[2020-09-01 20:46:05] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 20:46:05] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 20:46:05] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 20:47:20] Sending queued emails
+[2020-09-01 20:47:20] No more queued emails, exiting
+[2020-09-01 20:48:44] Sending queued emails
+[2020-09-01 20:48:44] No more queued emails, exiting
+[2020-09-01 20:49:44] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 20:49:44] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 20:49:44] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 20:49:44] Sending queued emails
+[2020-09-01 20:49:44] No more queued emails, exiting
+[2020-09-01 20:50:44] Sending queued emails
+[2020-09-01 20:50:44] No more queued emails, exiting
+[2020-09-01 20:52:45] Sending queued emails
+[2020-09-01 20:52:45] No more queued emails, exiting
+[2020-09-01 20:54:46] Sending queued emails
+[2020-09-01 20:54:46] No more queued emails, exiting
+[2020-09-01 20:54:46] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 20:54:46] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 20:54:46] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 20:56:47] Sending queued emails
+[2020-09-01 20:56:47] No more queued emails, exiting
+[2020-09-01 20:58:48] Sending queued emails
+[2020-09-01 20:58:48] No more queued emails, exiting
+[2020-09-01 21:09:35] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 21:09:35] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 21:09:35] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 21:09:35] Sending queued emails
+[2020-09-01 21:09:35] No more queued emails, exiting
+[2020-09-01 21:10:35] Sending queued emails
+[2020-09-01 21:10:35] No more queued emails, exiting
+[2020-09-01 21:12:36] Sending queued emails
+[2020-09-01 21:12:36] No more queued emails, exiting
+[2020-09-01 21:14:37] Sending queued emails
+[2020-09-01 21:14:37] No more queued emails, exiting
+[2020-09-01 21:14:37] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 21:14:37] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 21:14:37] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 21:16:38] Sending queued emails
+[2020-09-01 21:16:38] No more queued emails, exiting
+[2020-09-01 21:18:25] Sending queued emails
+[2020-09-01 21:18:25] No more queued emails, exiting
+[2020-09-01 21:20:26] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 21:20:26] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 21:20:26] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 21:20:26] Sending queued emails
+[2020-09-01 21:20:26] No more queued emails, exiting
+[2020-09-01 21:22:27] Sending queued emails
+[2020-09-01 21:22:27] No more queued emails, exiting
+[2020-09-01 21:24:28] Sending queued emails
+[2020-09-01 21:24:28] No more queued emails, exiting
+[2020-09-01 21:24:28] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 21:24:28] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 21:24:28] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 21:26:29] Sending queued emails
+[2020-09-01 21:26:29] No more queued emails, exiting
+[2020-09-01 21:28:19] Sending queued emails
+[2020-09-01 21:28:19] No more queued emails, exiting
+[2020-09-01 21:29:18] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 21:29:18] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 21:29:18] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 21:29:18] Sending queued emails
+[2020-09-01 21:29:18] No more queued emails, exiting
+[2020-09-01 21:30:03] Sending queued emails
+[2020-09-01 21:30:03] No more queued emails, exiting
+[2020-09-01 21:31:00] Sending queued emails
+[2020-09-01 21:31:00] No more queued emails, exiting
+[2020-09-01 21:32:00] Sending queued emails
+[2020-09-01 21:32:00] No more queued emails, exiting
+[2020-09-01 21:33:44] Sending queued emails
+[2020-09-01 21:33:44] No more queued emails, exiting
+[2020-09-01 21:34:47] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 21:34:47] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 21:34:47] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 21:34:47] Sending queued emails
+[2020-09-01 21:34:47] No more queued emails, exiting
+[2020-09-01 21:35:32] Sending queued emails
+[2020-09-01 21:35:32] No more queued emails, exiting
+[2020-09-01 21:36:27] Sending queued emails
+[2020-09-01 21:36:27] No more queued emails, exiting
+[2020-09-01 21:37:36] Sending queued emails
+[2020-09-01 21:37:36] No more queued emails, exiting
+[2020-09-01 21:38:36] Sending queued emails
+[2020-09-01 21:38:36] No more queued emails, exiting
+[2020-09-01 21:39:36] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 21:39:36] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 21:39:36] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 21:39:36] Sending queued emails
+[2020-09-01 21:39:36] No more queued emails, exiting
+[2020-09-01 21:40:36] Sending queued emails
+[2020-09-01 21:40:36] No more queued emails, exiting
+[2020-09-01 21:41:36] Sending queued emails
+[2020-09-01 21:41:36] No more queued emails, exiting
+[2020-09-01 21:42:15] Sending queued emails
+[2020-09-01 21:42:15] No more queued emails, exiting
+[2020-09-01 21:43:19] Sending queued emails
+[2020-09-01 21:43:19] No more queued emails, exiting
+[2020-09-01 21:44:20] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-01 21:44:20] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-01 21:44:20] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-01 21:44:20] Sending queued emails
+[2020-09-01 21:44:20] No more queued emails, exiting
+[2020-09-01 21:44:57] Sending queued emails
+[2020-09-01 21:44:57] No more queued emails, exiting
+[2020-09-03 20:49:27] Sending queued emails
+[2020-09-03 20:49:27] No more queued emails, exiting
+[2020-09-03 20:49:27] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-03 20:49:27] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-03 20:49:27] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-03 20:52:43] Sending queued emails
+[2020-09-03 20:52:43] No more queued emails, exiting
+[2020-09-03 20:53:00] Sending queued emails
+[2020-09-03 20:53:00] No more queued emails, exiting
+[2020-09-03 20:53:59] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-03 20:53:59] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-03 20:53:59] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-03 20:53:59] Sending queued emails
+[2020-09-03 20:53:59] No more queued emails, exiting
+[2020-09-03 20:54:59] Sending queued emails
+[2020-09-03 20:54:59] No more queued emails, exiting
+[2020-09-03 20:55:59] Sending queued emails
+[2020-09-03 20:55:59] No more queued emails, exiting
+[2020-09-03 20:56:56] Sending queued emails
+[2020-09-03 20:56:56] No more queued emails, exiting
+[2020-09-03 20:58:02] Sending queued emails
+[2020-09-03 20:58:02] No more queued emails, exiting
+[2020-09-03 20:59:02] Checking emails for Webinar de Prueba (1361) 5 minutes before
+[2020-09-03 20:59:02] Checking emails for Webinar de Prueba (1361) one hour before
+[2020-09-03 20:59:02] Checking emails for Webinar de Prueba (1361) one day before
+[2020-09-03 20:59:02] Sending queued emails
+[2020-09-03 20:59:02] No more queued emails, exiting
+[2020-09-03 21:00:02] Sending queued emails
+[2020-09-03 21:00:02] No more queued emails, exiting
